@@ -23,7 +23,9 @@ Salary level 13 TV-L: The PhD positions are offered in the fields of experimenta
     <id>urn:uuid:6b1c6aaf-d17f-5888-9e95-0667e7e9161a</id>
     <updated>2026-11-01T00:00:00Z</updated>
     <category term="electrical" label="Electrical engineering" />
-    <summary>University of Warwick · Coventry, University of Warwick, Warwick, GB · Deadline: 2026-12-01 · Topics: Electrical engineering</summary>
+    <category term="ai" label="Artificial intelligence" />
+    <category term="cloud" label="Cloud computing" />
+    <summary>University of Warwick · Coventry, University of Warwick, Warwick, GB · Deadline: 2026-12-01 · Topics: Electrical engineering, Artificial intelligence, Cloud computing</summary>
   </entry>
   <entry>
     <title>PhD Studentship: Click-to-Connect Cytochromes: Modular Components for Sustainable Electrical Circuits · University of East Anglia (GB)</title>
@@ -47,7 +49,8 @@ Salary level 13 TV-L: The PhD positions are offered in the fields of experimenta
     <id>urn:uuid:51e15cc7-6405-56a0-9103-4c3d3bbda500</id>
     <updated>2026-11-01T00:00:00Z</updated>
     <category term="electrical" label="Electrical engineering" />
-    <summary>University of Oxford · Oxford, GB · Deadline: 2026-12-02 · Topics: Electrical engineering</summary>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of Oxford · Oxford, GB · Deadline: 2026-12-02 · Topics: Electrical engineering, Artificial intelligence</summary>
   </entry>
   <entry>
     <title>PhD Project: Microgrid Resilience · University of Nottingham (GB)</title>
@@ -56,23 +59,6 @@ Salary level 13 TV-L: The PhD positions are offered in the fields of experimenta
     <updated>2026-11-01T00:00:00Z</updated>
     <category term="electrical" label="Electrical engineering" />
     <summary>University of Nottingham · Nottingham, GB · Deadline: 2027-01-21 · Topics: Electrical engineering</summary>
-  </entry>
-  <entry>
-    <title>PhD - EPSRC - Topological and Other Types of Photonics Devices for Sensing, Modulation and Other Applications · The University of Manchester (GB)</title>
-    <link href="https://www.jobs.ac.uk/job/DTH368/phd-epsrc-topological-and-other-types-of-photonics-devices-for-sensing-modulation-and-other-applications" rel="alternate" />
-    <id>urn:uuid:dd73e328-cbf9-5538-9aff-86f6a6484c16</id>
-    <updated>2026-11-01T00:00:00Z</updated>
-    <category term="electrical" label="Electrical engineering" />
-    <summary>The University of Manchester · Manchester, GB · Deadline: 2027-01-31 · Topics: Electrical engineering</summary>
-  </entry>
-  <entry>
-    <title>PhD Studentship (Part-Time) in Control Systems and Robotics (Postgraduate Research Teaching Associate) · The University of Manchester (GB)</title>
-    <link href="https://www.jobs.ac.uk/job/DTG045/phd-studentship-part-time-in-control-systems-and-robotics-postgraduate-research-teaching-associate" rel="alternate" />
-    <id>urn:uuid:9c5b18ee-7f4a-5d8f-acb3-c54f1f1055b4</id>
-    <updated>2026-11-01T00:00:00Z</updated>
-    <category term="robotics" label="Robotics" />
-    <category term="electrical" label="Electrical engineering" />
-    <summary>The University of Manchester · Manchester, GB · Deadline: 2026-12-31 · Topics: Robotics, Electrical engineering</summary>
   </entry>
   <entry>
     <title>PhD Studentship: Source-Independent Protection for Inverter-Dominated Power Networks · The University of Manchester (GB)</title>
@@ -97,42 +83,6 @@ Salary level 13 TV-L: The PhD positions are offered in the fields of experimenta
     <updated>2026-11-01T00:00:00Z</updated>
     <category term="electrical" label="Electrical engineering" />
     <summary>University of East Anglia · Norwich, GB · Deadline: 2026-11-23 · Topics: Electrical engineering</summary>
-  </entry>
-  <entry>
-    <title>PhD Studentship: Bioresorbable Intestinal Devices with Embedded Resorbable Sensors for Gastrointestinal Monitoring · University of Birmingham (GB)</title>
-    <link href="https://www.jobs.ac.uk/job/DSZ327/phd-studentship-bioresorbable-intestinal-devices-with-embedded-resorbable-sensors-for-gastrointestinal-monitoring" rel="alternate" />
-    <id>urn:uuid:b45ec0d9-d42b-5698-b0e8-350b25fef838</id>
-    <updated>2026-11-01T00:00:00Z</updated>
-    <category term="electrical" label="Electrical engineering" />
-    <summary>University of Birmingham · Birmingham, GB · Deadline: 2027-01-07 · Topics: Electrical engineering</summary>
-  </entry>
-  <entry>
-    <title>PhD Studentship - Arc Fault Analysis in Modern Aerospace Power Drive Systems · The University of Manchester (GB)</title>
-    <link href="https://www.jobs.ac.uk/job/DSW590/phd-studentship-arc-fault-analysis-in-modern-aerospace-power-drive-systems" rel="alternate" />
-    <id>urn:uuid:43b79b2b-b31a-5772-9246-0f18face3ea4</id>
-    <updated>2026-11-01T00:00:00Z</updated>
-    <category term="electrical" label="Electrical engineering" />
-    <summary>The University of Manchester · Manchester, GB · Deadline: 2026-12-09 · Topics: Electrical engineering</summary>
-  </entry>
-  <entry>
-    <title>Doctoral Training Grants 2026 (FD 2026) · Universitat Poliotècnica de Catalunya (ES)</title>
-    <link href="https://euraxess.ec.europa.eu/jobs/476608" rel="alternate" />
-    <id>urn:uuid:76e5b68c-7102-5e23-b4da-cba20e002961</id>
-    <updated>2026-11-01T00:00:00Z</updated>
-    <category term="electrical" label="Electrical engineering" />
-    <summary>Universitat Poliotècnica de Catalunya · Spain, ES · Deadline: 2026-11-24 · Topics: Electrical engineering
-
-What the grant offersUp to 4 yearsContract duration (includes optional 12-month max orientation period post-PhD). Funding &amp; RemunerationYears 1-4: €25,457 gross/year)* Additional allowances include aid plus €7,000 for research stays and PhD tuition fees.**Agreement CG/2024/05/12 of 25 October 2024...</summary>
-  </entry>
-  <entry>
-    <title>MSCA Doctoral Network INTELLASE – Two Doctoral Researcher Positions in Intelligent Laser Precision Manufacturing · University of Ljubljana (SI)</title>
-    <link href="https://euraxess.ec.europa.eu/jobs/476558" rel="alternate" />
-    <id>urn:uuid:44aba26c-c1a9-58d5-b1da-93e998b06adb</id>
-    <updated>2026-11-01T00:00:00Z</updated>
-    <category term="electrical" label="Electrical engineering" />
-    <summary>University of Ljubljana · Slovenia, SI · Deadline: 2026-12-15 · Topics: Electrical engineering
-
-The University of Ljubljana offers two full-time doctoral researcher positions, each with a planned employment duration of 36 months, within the Horizon Europe Marie Skłodowska-Curie Actions Doctoral Network INTELLASE (Intelligent Laser Precision Manufacturing https://cordis.europa.eu/project/id ...</summary>
   </entry>
   <entry>
     <title>PhD Position MSCA COFUND BEST:  "Hybrid PVD/ALD Multilayer Thin Film Deposition to Enhance Dielectric Breakdown Strength of Future High Voltage Electronic Devices for Sustainable Aeronautics" · University of Toulouse (FR)</title>

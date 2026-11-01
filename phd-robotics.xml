@@ -13,7 +13,8 @@
     <updated>2026-11-01T00:00:00Z</updated>
     <published>2026-09-22T00:00:00Z</published>
     <category term="robotics" label="Robotics" />
-    <summary>Aarhus University (AU) · Aarhus, Midtjylland, DK · Deadline: not stated · Topics: Robotics
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Aarhus University (AU) · Aarhus, Midtjylland, DK · Deadline: not stated · Topics: Robotics, Artificial intelligence
 
 Competitive: The project connects multimodal perception, reasoning and action with predictive learning and edge intelligence.</summary>
   </entry>
@@ -31,7 +32,8 @@ Competitive: The project connects multimodal perception, reasoning and action wi
     <id>urn:uuid:f36b7c66-46ea-5b9c-a420-513e37b15233</id>
     <updated>2026-11-01T00:00:00Z</updated>
     <category term="robotics" label="Robotics" />
-    <summary>Durham University · Durham, GB · Deadline: 2027-01-19 · Topics: Robotics</summary>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Durham University · Durham, GB · Deadline: 2027-01-19 · Topics: Robotics, Artificial intelligence</summary>
   </entry>
   <entry>
     <title>PhD Studentship (Part-Time) in Control Systems and Robotics (Postgraduate Research Teaching Associate) · The University of Manchester (GB)</title>
@@ -39,8 +41,7 @@ Competitive: The project connects multimodal perception, reasoning and action wi
     <id>urn:uuid:9c5b18ee-7f4a-5d8f-acb3-c54f1f1055b4</id>
     <updated>2026-11-01T00:00:00Z</updated>
     <category term="robotics" label="Robotics" />
-    <category term="electrical" label="Electrical engineering" />
-    <summary>The University of Manchester · Manchester, GB · Deadline: 2026-12-31 · Topics: Robotics, Electrical engineering</summary>
+    <summary>The University of Manchester · Manchester, GB · Deadline: 2026-12-31 · Topics: Robotics</summary>
   </entry>
   <entry>
     <title>PhD Studentship: The Physics of Learning in Robotic Metamaterials · University of Birmingham (GB)</title>

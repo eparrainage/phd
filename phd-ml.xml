@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PhD offers: Machine learning</title>
+  <id>urn:uuid:cc4b423c-96d2-52d2-8b55-db33093552e9</id>
+  <updated>2026-11-01T00:00:00Z</updated>
+  <author>
+    <name>PhD finder</name>
+  </author>
+  <entry>
+    <title>The AITHYRA International PhD Program Call in AI for Biomedicine (all genders) · AITHYRA GmbH - Research Institute for Biomedical Artificial Intelligence of the Austrian Academy of Sciences (AT)</title>
+    <link href="https://www.nature.com/naturecareers/job/12864324/the-aithyra-international-phd-program-call-in-ai-for-biomedicine-all-genders-/" rel="alternate" />
+    <id>urn:uuid:ced6b966-9470-577b-a371-b2107f4c7d69</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <published>2026-09-06T00:00:00Z</published>
+    <category term="ai" label="Artificial intelligence" />
+    <category term="ml" label="Machine learning" />
+    <summary>AITHYRA GmbH - Research Institute for Biomedical Artificial Intelligence of the Austrian Academy of Sciences · Vienna (Landbezirke), AT · Deadline: not stated · Topics: Artificial intelligence, Machine learning
+
+Minimum gross monthly salary of EUR 2.832,10 paid 14 times a year: Join AITHYRA in Vienna for a fully funded PhD position at the intersection of machine learning, experimental biology, chemistry, and medicine.</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Machine Learning for plasmid risk assessment from genomic surveillance · University of Birmingham (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTM165/phd-studentship-machine-learning-for-plasmid-risk-assessment-from-genomic-surveillance" rel="alternate" />
+    <id>urn:uuid:6b53628f-cee5-5f61-8b14-506352645e8b</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Birmingham · Birmingham, GB · Deadline: 2026-11-23 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Understanding drug resistance in M. tuberculosis by applying machine learning to a national genomic census · University of Birmingham (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTM108/phd-studentship-understanding-drug-resistance-in-m-tuberculosis-by-applying-machine-learning-to-a-national-genomic-census" rel="alternate" />
+    <id>urn:uuid:05e11e1e-d5bc-5e93-9288-84d6e78efeed</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Birmingham · Birmingham, GB · Deadline: 2026-11-23 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Next-generation machine learning for genetic interaction prediction with lab-in the-loop validation in pancreatic cancer · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTL177/phd-studentship-next-generation-machine-learning-for-genetic-interaction-prediction-with-lab-in-the-loop-validation-in-pancreatic-cancer" rel="alternate" />
+    <id>urn:uuid:ffbf2ce0-fdec-5153-b926-70d1b63b546d</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Exeter · Exeter, GB · Deadline: 2026-12-08 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Multiscale Scientific Machine Learning Digital Twins for High-Torque Electric Propulsion under Extreme Duty Cycles · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTL071/phd-studentship-multiscale-scientific-machine-learning-digital-twins-for-high-torque-electric-propulsion-under-extreme-duty-cycles" rel="alternate" />
+    <id>urn:uuid:f359eee4-90f8-5a43-8ed1-8d03925210a0</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Exeter · Exeter, GB · Deadline: 2026-12-08 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Integrating Machine Learning with One Health Frameworks to Quantify Disease Transmission Pathways between Wildlife and the Environment · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTL059/phd-studentship-integrating-machine-learning-with-one-health-frameworks-to-quantify-disease-transmission-pathways-between-wildlife-and-the-environment" rel="alternate" />
+    <id>urn:uuid:c966a4c6-a7e6-576b-bddf-d6a357fddffc</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Exeter · Exeter, GB · Deadline: 2026-12-08 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD in Physics-Aware Graph Neural Networks for Robust Short-Term Visibility Forecasting · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTK857/phd-in-physics-aware-graph-neural-networks-for-robust-short-term-visibility-forecasting" rel="alternate" />
+    <id>urn:uuid:fcfd5b09-402c-5563-8688-c43512628fc7</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Exeter · Penryn, GB · Deadline: 2026-12-08 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD programme in Machine Learning Systems · The University of Edinburgh (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTD988/phd-programme-in-machine-learning-systems" rel="alternate" />
+    <id>urn:uuid:ad8c5e34-0cf8-5de8-a7e6-ffc9e3af0726</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>The University of Edinburgh · Edinburgh, Hybrid, GB · Deadline: 2026-12-14 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD Position F/M Trustable Machine Learning : Analysis and Verification of Soft Automata · Inria (AT-REN) (FR)</title>
+    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10416" rel="alternate" />
+    <id>urn:uuid:c73d8d90-0df9-531b-9668-914e22369adf</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>Inria (AT-REN) · Rennes, FR · Deadline: 2026-11-07 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD Position in Machine Learning for Preterm Lung Health (100%) · University of Basel (CH)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/476754" rel="alternate" />
+    <id>urn:uuid:12fc69ce-1d13-5fb8-9add-7d9e919674f0</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Basel · Switzerland, CH · Deadline: 2026-11-28 · Topics: Machine learning
+
+Department of Biomedical Engineering (DBE), University of BaselGroup: Analytics &amp; Informatics for Child Health (AICH) in collaboration with University Children's Hospital Basel (UKBB)Starting date: November 2026 or upon agreementDuration: 4 years About UsThe Analytics &amp; Informatics for Child Health...</summary>
+  </entry>
+</feed>

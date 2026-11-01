@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>PhD offers: robotics, electromechanical, electrical</title>
+  <title>PhD offers: engineering, AI and computing</title>
   <id>urn:uuid:c13c8e4e-87af-5e7a-8dea-e68d91580eaa</id>
   <updated>2026-11-01T00:00:00Z</updated>
   <author>
@@ -24,9 +24,126 @@ Salary level 13 TV-L: The PhD positions are offered in the fields of experimenta
     <updated>2026-11-01T00:00:00Z</updated>
     <published>2026-09-22T00:00:00Z</published>
     <category term="robotics" label="Robotics" />
-    <summary>Aarhus University (AU) · Aarhus, Midtjylland, DK · Deadline: not stated · Topics: Robotics
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Aarhus University (AU) · Aarhus, Midtjylland, DK · Deadline: not stated · Topics: Robotics, Artificial intelligence
 
 Competitive: The project connects multimodal perception, reasoning and action with predictive learning and edge intelligence.</summary>
+  </entry>
+  <entry>
+    <title>The AITHYRA International PhD Program Call in AI for Biomedicine (all genders) · AITHYRA GmbH - Research Institute for Biomedical Artificial Intelligence of the Austrian Academy of Sciences (AT)</title>
+    <link href="https://www.nature.com/naturecareers/job/12864324/the-aithyra-international-phd-program-call-in-ai-for-biomedicine-all-genders-/" rel="alternate" />
+    <id>urn:uuid:ced6b966-9470-577b-a371-b2107f4c7d69</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <published>2026-09-06T00:00:00Z</published>
+    <category term="ai" label="Artificial intelligence" />
+    <category term="ml" label="Machine learning" />
+    <summary>AITHYRA GmbH - Research Institute for Biomedical Artificial Intelligence of the Austrian Academy of Sciences · Vienna (Landbezirke), AT · Deadline: not stated · Topics: Artificial intelligence, Machine learning
+
+Minimum gross monthly salary of EUR 2.832,10 paid 14 times a year: Join AITHYRA in Vienna for a fully funded PhD position at the intersection of machine learning, experimental biology, chemistry, and medicine.</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Machine Learning for plasmid risk assessment from genomic surveillance · University of Birmingham (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTM165/phd-studentship-machine-learning-for-plasmid-risk-assessment-from-genomic-surveillance" rel="alternate" />
+    <id>urn:uuid:6b53628f-cee5-5f61-8b14-506352645e8b</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Birmingham · Birmingham, GB · Deadline: 2026-11-23 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Understanding drug resistance in M. tuberculosis by applying machine learning to a national genomic census · University of Birmingham (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTM108/phd-studentship-understanding-drug-resistance-in-m-tuberculosis-by-applying-machine-learning-to-a-national-genomic-census" rel="alternate" />
+    <id>urn:uuid:05e11e1e-d5bc-5e93-9288-84d6e78efeed</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Birmingham · Birmingham, GB · Deadline: 2026-11-23 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Next-generation machine learning for genetic interaction prediction with lab-in the-loop validation in pancreatic cancer · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTL177/phd-studentship-next-generation-machine-learning-for-genetic-interaction-prediction-with-lab-in-the-loop-validation-in-pancreatic-cancer" rel="alternate" />
+    <id>urn:uuid:ffbf2ce0-fdec-5153-b926-70d1b63b546d</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Exeter · Exeter, GB · Deadline: 2026-12-08 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: AI-Enabled Smart Spectroscopy Pixels: Revealing Microbial Responses to Antibiotics · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTL171/phd-studentship-ai-enabled-smart-spectroscopy-pixels-revealing-microbial-responses-to-antibiotics" rel="alternate" />
+    <id>urn:uuid:ec763482-7dbd-5cdb-9452-996547d72523</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of Exeter · Exeter, GB · Deadline: 2026-12-08 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Digital Movement Biomarkers of Mood and Fatigue in Older Adults: Using Computer Vision, Artificial Intelligence and Functional Movement Analysis to Detect Anxiety, Depression and Fatigue in People With and Without Multiple longterm conditions · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTL118/phd-studentship-digital-movement-biomarkers-of-mood-and-fatigue-in-older-adults-using-computer-vision-artificial-intelligence-and-functional-movement-analysis-to-detect-anxiety-depression-and-fatigue-in-people-with-and-without-multiple-longterm-conditions" rel="alternate" />
+    <id>urn:uuid:61ef37c2-e1ea-52c7-8143-5e34fc7cfcc4</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of Exeter · Exeter, GB · Deadline: 2026-12-08 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Multiscale Scientific Machine Learning Digital Twins for High-Torque Electric Propulsion under Extreme Duty Cycles · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTL071/phd-studentship-multiscale-scientific-machine-learning-digital-twins-for-high-torque-electric-propulsion-under-extreme-duty-cycles" rel="alternate" />
+    <id>urn:uuid:f359eee4-90f8-5a43-8ed1-8d03925210a0</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Exeter · Exeter, GB · Deadline: 2026-12-08 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: AI and Image Processing for Diabetic Retinopathy (DR) Smart Cameras · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTL063/phd-studentship-ai-and-image-processing-for-diabetic-retinopathy-dr-smart-cameras" rel="alternate" />
+    <id>urn:uuid:7cdf374e-40d0-565b-b9b5-421bf8944fcd</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of Exeter · Exeter, GB · Deadline: 2026-12-08 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Improving Artificial Intelligence through Neuroscience · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTL061/phd-studentship-improving-artificial-intelligence-through-neuroscience" rel="alternate" />
+    <id>urn:uuid:8fbec859-4f5f-59d9-ba04-7faa7388231d</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of Exeter · Exeter, GB · Deadline: 2026-12-08 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Integrating Machine Learning with One Health Frameworks to Quantify Disease Transmission Pathways between Wildlife and the Environment · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTL059/phd-studentship-integrating-machine-learning-with-one-health-frameworks-to-quantify-disease-transmission-pathways-between-wildlife-and-the-environment" rel="alternate" />
+    <id>urn:uuid:c966a4c6-a7e6-576b-bddf-d6a357fddffc</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Exeter · Exeter, GB · Deadline: 2026-12-08 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Physics-Informed AI and Experimental Modelling of Ocean Mixing: From Fracture Zones to Ocean Ventilation · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTL053/phd-studentship-physics-informed-ai-and-experimental-modelling-of-ocean-mixing-from-fracture-zones-to-ocean-ventilation" rel="alternate" />
+    <id>urn:uuid:20fd7365-83d5-58d9-9237-a5c27777d9d7</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of Exeter · Exeter, GB · Deadline: 2026-12-08 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Beyond Pilots: De-Risking the Scale-Up of Artificial Intelligence in Digitally Enabled Circular Supply Chains · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTK939/phd-studentship-beyond-pilots-de-risking-the-scale-up-of-artificial-intelligence-in-digitally-enabled-circular-supply-chains" rel="alternate" />
+    <id>urn:uuid:ed1a7d20-b9cf-5a92-a854-4c817b1624ff</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of Exeter · Exeter, GB · Deadline: 2026-12-08 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Sovereign Agentic AI: Distilling Small Language Model Agents for Local Deployment · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTK885/phd-studentship-sovereign-agentic-ai-distilling-small-language-model-agents-for-local-deployment" rel="alternate" />
+    <id>urn:uuid:e02b4ddc-67e5-57a9-bce7-a68b43043ab1</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of Exeter · Exeter, GB · Deadline: 2026-12-08 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD in Physics-Aware Graph Neural Networks for Robust Short-Term Visibility Forecasting · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTK857/phd-in-physics-aware-graph-neural-networks-for-robust-short-term-visibility-forecasting" rel="alternate" />
+    <id>urn:uuid:fcfd5b09-402c-5563-8688-c43512628fc7</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Exeter · Penryn, GB · Deadline: 2026-12-08 · Topics: Machine learning</summary>
   </entry>
   <entry>
     <title>PhD Studentship: High-Efficiency Power Electronics for AI Data Centres and Net-Zero Grids · University of Warwick (GB)</title>
@@ -34,7 +151,9 @@ Competitive: The project connects multimodal perception, reasoning and action wi
     <id>urn:uuid:6b1c6aaf-d17f-5888-9e95-0667e7e9161a</id>
     <updated>2026-11-01T00:00:00Z</updated>
     <category term="electrical" label="Electrical engineering" />
-    <summary>University of Warwick · Coventry, University of Warwick, Warwick, GB · Deadline: 2026-12-01 · Topics: Electrical engineering</summary>
+    <category term="ai" label="Artificial intelligence" />
+    <category term="cloud" label="Cloud computing" />
+    <summary>University of Warwick · Coventry, University of Warwick, Warwick, GB · Deadline: 2026-12-01 · Topics: Electrical engineering, Artificial intelligence, Cloud computing</summary>
   </entry>
   <entry>
     <title>PhD Studentship: Click-to-Connect Cytochromes: Modular Components for Sustainable Electrical Circuits · University of East Anglia (GB)</title>
@@ -43,6 +162,22 @@ Competitive: The project connects multimodal perception, reasoning and action wi
     <updated>2026-11-01T00:00:00Z</updated>
     <category term="electrical" label="Electrical engineering" />
     <summary>University of East Anglia · Norwich, GB · Deadline: 2026-11-30 · Topics: Electrical engineering</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Listening to La Soufrière: Fibre Optics and AI for the Next Generation of Volcano Monitoring · University of East Anglia (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTJ487/phd-studentship-listening-to-la-soufrire-fibre-optics-and-ai-for-the-next-generation-of-volcano-monitoring" rel="alternate" />
+    <id>urn:uuid:a09df914-3429-5523-b71f-6891b7ef4d35</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of East Anglia · Norwich, GB · Deadline: 2026-12-16 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: From Spectra to Marine Litter: Multispectral Imaging and AI for Aerial Detection and Monitoring · University of East Anglia (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTJ323/phd-studentship-from-spectra-to-marine-litter-multispectral-imaging-and-ai-for-aerial-detection-and-monitoring" rel="alternate" />
+    <id>urn:uuid:1ee01e8a-e71d-5044-8a1e-ccadbacf841a</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of East Anglia · Norwich, GB · Deadline: 2026-12-16 · Topics: Artificial intelligence</summary>
   </entry>
   <entry>
     <title>PhD Studentship: Data-driven Control Engineering for Large-scale Uncertain Systems · University of Oxford (GB)</title>
@@ -58,7 +193,8 @@ Competitive: The project connects multimodal perception, reasoning and action wi
     <id>urn:uuid:51e15cc7-6405-56a0-9103-4c3d3bbda500</id>
     <updated>2026-11-01T00:00:00Z</updated>
     <category term="electrical" label="Electrical engineering" />
-    <summary>University of Oxford · Oxford, GB · Deadline: 2026-12-02 · Topics: Electrical engineering</summary>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of Oxford · Oxford, GB · Deadline: 2026-12-02 · Topics: Electrical engineering, Artificial intelligence</summary>
   </entry>
   <entry>
     <title>PhD Project: Microgrid Resilience · University of Nottingham (GB)</title>
@@ -82,15 +218,32 @@ Competitive: The project connects multimodal perception, reasoning and action wi
     <id>urn:uuid:f36b7c66-46ea-5b9c-a420-513e37b15233</id>
     <updated>2026-11-01T00:00:00Z</updated>
     <category term="robotics" label="Robotics" />
-    <summary>Durham University · Durham, GB · Deadline: 2027-01-19 · Topics: Robotics</summary>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Durham University · Durham, GB · Deadline: 2027-01-19 · Topics: Robotics, Artificial intelligence</summary>
   </entry>
   <entry>
-    <title>PhD - EPSRC - Topological and Other Types of Photonics Devices for Sensing, Modulation and Other Applications · The University of Manchester (GB)</title>
-    <link href="https://www.jobs.ac.uk/job/DTH368/phd-epsrc-topological-and-other-types-of-photonics-devices-for-sensing-modulation-and-other-applications" rel="alternate" />
-    <id>urn:uuid:dd73e328-cbf9-5538-9aff-86f6a6484c16</id>
+    <title>PhD Studentship: Physics-informed AI for the Thermodynamic Co-design of Emerging Cooling Technologies · University of Birmingham (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTI174/phd-studentship-physics-informed-ai-for-the-thermodynamic-co-design-of-emerging-cooling-technologies" rel="alternate" />
+    <id>urn:uuid:466becc2-96f5-5ad9-8c7a-ca985ecc90f0</id>
     <updated>2026-11-01T00:00:00Z</updated>
-    <category term="electrical" label="Electrical engineering" />
-    <summary>The University of Manchester · Manchester, GB · Deadline: 2027-01-31 · Topics: Electrical engineering</summary>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of Birmingham · Birmingham, GB · Deadline: 2027-01-19 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: AI Optimisation of Green Roofs and Facades for Low-Carbon, Heat-Resilient Buildings · University of West London (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTH043/phd-studentship-ai-optimisation-of-green-roofs-and-facades-for-low-carbon-heat-resilient-buildings" rel="alternate" />
+    <id>urn:uuid:2ce336b0-5aa9-5c5a-9d74-b72655d68deb</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of West London · London, GB · Deadline: 2027-01-25 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Smart Optical Design: AI Tools for the Next Generation of Cinematic Camera Lenses · University of Surrey (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTG720/phd-studentship-smart-optical-design-ai-tools-for-the-next-generation-of-cinematic-camera-lenses" rel="alternate" />
+    <id>urn:uuid:0eafb6a7-4260-5756-a812-19e43e2b36ca</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of Surrey · Guildford, GB · Deadline: 2027-01-17 · Topics: Artificial intelligence</summary>
   </entry>
   <entry>
     <title>PhD Studentship (Part-Time) in Control Systems and Robotics (Postgraduate Research Teaching Associate) · The University of Manchester (GB)</title>
@@ -98,8 +251,15 @@ Competitive: The project connects multimodal perception, reasoning and action wi
     <id>urn:uuid:9c5b18ee-7f4a-5d8f-acb3-c54f1f1055b4</id>
     <updated>2026-11-01T00:00:00Z</updated>
     <category term="robotics" label="Robotics" />
-    <category term="electrical" label="Electrical engineering" />
-    <summary>The University of Manchester · Manchester, GB · Deadline: 2026-12-31 · Topics: Robotics, Electrical engineering</summary>
+    <summary>The University of Manchester · Manchester, GB · Deadline: 2026-12-31 · Topics: Robotics</summary>
+  </entry>
+  <entry>
+    <title>PhD programme in Machine Learning Systems · The University of Edinburgh (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTD988/phd-programme-in-machine-learning-systems" rel="alternate" />
+    <id>urn:uuid:ad8c5e34-0cf8-5de8-a7e6-ffc9e3af0726</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>The University of Edinburgh · Edinburgh, Hybrid, GB · Deadline: 2026-12-14 · Topics: Machine learning</summary>
   </entry>
   <entry>
     <title>PhD Studentship: Source-Independent Protection for Inverter-Dominated Power Networks · The University of Manchester (GB)</title>
@@ -126,28 +286,12 @@ Competitive: The project connects multimodal perception, reasoning and action wi
     <summary>University of East Anglia · Norwich, GB · Deadline: 2026-11-23 · Topics: Electrical engineering</summary>
   </entry>
   <entry>
-    <title>PhD Studentship: Bioresorbable Intestinal Devices with Embedded Resorbable Sensors for Gastrointestinal Monitoring · University of Birmingham (GB)</title>
-    <link href="https://www.jobs.ac.uk/job/DSZ327/phd-studentship-bioresorbable-intestinal-devices-with-embedded-resorbable-sensors-for-gastrointestinal-monitoring" rel="alternate" />
-    <id>urn:uuid:b45ec0d9-d42b-5698-b0e8-350b25fef838</id>
-    <updated>2026-11-01T00:00:00Z</updated>
-    <category term="electrical" label="Electrical engineering" />
-    <summary>University of Birmingham · Birmingham, GB · Deadline: 2027-01-07 · Topics: Electrical engineering</summary>
-  </entry>
-  <entry>
     <title>PhD Studentship - Sustainable Multi-Sector Electrification Using Advanced Integrated Motor Drive Technologies · University of Nottingham (GB)</title>
     <link href="https://www.jobs.ac.uk/job/DSX858/phd-studentship-sustainable-multi-sector-electrification-using-advanced-integrated-motor-drive-technologies" rel="alternate" />
     <id>urn:uuid:cd9b0bd5-5f4c-535a-ab56-60ee43c6578a</id>
     <updated>2026-11-01T00:00:00Z</updated>
     <category term="electromechanical" label="Electromechanical &amp; mechatronics" />
     <summary>University of Nottingham · Nottingham, GB · Deadline: 2026-12-14 · Topics: Electromechanical &amp; mechatronics</summary>
-  </entry>
-  <entry>
-    <title>PhD Studentship - Arc Fault Analysis in Modern Aerospace Power Drive Systems · The University of Manchester (GB)</title>
-    <link href="https://www.jobs.ac.uk/job/DSW590/phd-studentship-arc-fault-analysis-in-modern-aerospace-power-drive-systems" rel="alternate" />
-    <id>urn:uuid:43b79b2b-b31a-5772-9246-0f18face3ea4</id>
-    <updated>2026-11-01T00:00:00Z</updated>
-    <category term="electrical" label="Electrical engineering" />
-    <summary>The University of Manchester · Manchester, GB · Deadline: 2026-12-09 · Topics: Electrical engineering</summary>
   </entry>
   <entry>
     <title>PhD Studentship: The Physics of Learning in Robotic Metamaterials · University of Birmingham (GB)</title>
@@ -158,6 +302,55 @@ Competitive: The project connects multimodal perception, reasoning and action wi
     <summary>University of Birmingham · Birmingham, GB · Deadline: 2027-01-06 · Topics: Robotics</summary>
   </entry>
   <entry>
+    <title>PhD Studentship: AI-Driven fault diagnosis for wind turbine generators · University of East Anglia (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DSM935/phd-studentship-ai-driven-fault-diagnosis-for-wind-turbine-generators" rel="alternate" />
+    <id>urn:uuid:c4af369d-d1e1-5d07-94b2-24f1704c4448</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of East Anglia · Norwich, GB · Deadline: 2026-11-30 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Position F/M Collusion in Agentic Systems · Inria (FAIRPLAY) (FR)</title>
+    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10647" rel="alternate" />
+    <id>urn:uuid:7f334ebe-c7a3-5ea1-9d5b-22055920f5a6</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Inria (FAIRPLAY) · Palaiseau, FR · Deadline: 2026-11-23 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>Doctorant F/H Évaluation des risques liés aux modèles d’IA en Santé · Inria (PRIVATICS) (FR)</title>
+    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10638" rel="alternate" />
+    <id>urn:uuid:5cc248b9-81e7-5a02-b6af-9c3e401d5b75</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Inria (PRIVATICS) · Villeurbanne, FR · Deadline: 2026-11-20 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Position F/M PhD Position F/M: How does Reasoning with LLM Help Repair Vulnerabilities in Repo-level Software Projects? · Inria (PIRAT) (FR)</title>
+    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10614" rel="alternate" />
+    <id>urn:uuid:c0e1644c-2350-533f-9777-483f5e339f35</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <category term="cybersecurity" label="Cybersecurity" />
+    <summary>Inria (PIRAT) · Rennes, FR · Deadline: 2026-12-15 · Topics: Artificial intelligence, Cybersecurity</summary>
+  </entry>
+  <entry>
+    <title>Doctorant F/H Doctorant(e) en intelligence artificielle scientifique et modélisation spatio-temporelle de la biodiversité · Inria (IROKO) (FR)</title>
+    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10608" rel="alternate" />
+    <id>urn:uuid:0760f764-44da-5f9e-a6a6-6d05093dcb75</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Inria (IROKO) · Montpellier, FR · Deadline: 2026-11-13 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>Doctorant F/H Résistance à la désinformation dans les collectifs hybrides humains–IA · Inria (MARIANNE) (FR)</title>
+    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10599" rel="alternate" />
+    <id>urn:uuid:19897789-b661-5df9-a1fe-3404ae5c198b</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Inria (MARIANNE) · Sophia Antipolis, FR · Deadline: 2026-11-13 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
     <title>PhD Position F/M Enforcing Persistence in Generative World Models for Robotics · Inria (ASTRA) (FR)</title>
     <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10570" rel="alternate" />
     <id>urn:uuid:bbc8fb15-f155-527f-b322-b2610977e454</id>
@@ -166,24 +359,123 @@ Competitive: The project connects multimodal perception, reasoning and action wi
     <summary>Inria (ASTRA) · Paris, FR · Deadline: 2026-11-20 · Topics: Robotics</summary>
   </entry>
   <entry>
-    <title>Doctoral Training Grants 2026 (FD 2026) · Universitat Poliotècnica de Catalunya (ES)</title>
-    <link href="https://euraxess.ec.europa.eu/jobs/476608" rel="alternate" />
-    <id>urn:uuid:76e5b68c-7102-5e23-b4da-cba20e002961</id>
+    <title>PhD Position F/M Trustable Machine Learning : Analysis and Verification of Soft Automata · Inria (AT-REN) (FR)</title>
+    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10416" rel="alternate" />
+    <id>urn:uuid:c73d8d90-0df9-531b-9668-914e22369adf</id>
     <updated>2026-11-01T00:00:00Z</updated>
-    <category term="electrical" label="Electrical engineering" />
-    <summary>Universitat Poliotècnica de Catalunya · Spain, ES · Deadline: 2026-11-24 · Topics: Electrical engineering
-
-What the grant offersUp to 4 yearsContract duration (includes optional 12-month max orientation period post-PhD). Funding &amp; RemunerationYears 1-4: €25,457 gross/year)* Additional allowances include aid plus €7,000 for research stays and PhD tuition fees.**Agreement CG/2024/05/12 of 25 October 2024...</summary>
+    <category term="ml" label="Machine learning" />
+    <summary>Inria (AT-REN) · Rennes, FR · Deadline: 2026-11-07 · Topics: Machine learning</summary>
   </entry>
   <entry>
-    <title>MSCA Doctoral Network INTELLASE – Two Doctoral Researcher Positions in Intelligent Laser Precision Manufacturing · University of Ljubljana (SI)</title>
-    <link href="https://euraxess.ec.europa.eu/jobs/476558" rel="alternate" />
-    <id>urn:uuid:44aba26c-c1a9-58d5-b1da-93e998b06adb</id>
+    <title>PhD Position in Machine Learning for Preterm Lung Health (100%) · University of Basel (CH)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/476754" rel="alternate" />
+    <id>urn:uuid:12fc69ce-1d13-5fb8-9add-7d9e919674f0</id>
     <updated>2026-11-01T00:00:00Z</updated>
-    <category term="electrical" label="Electrical engineering" />
-    <summary>University of Ljubljana · Slovenia, SI · Deadline: 2026-12-15 · Topics: Electrical engineering
+    <category term="ml" label="Machine learning" />
+    <summary>University of Basel · Switzerland, CH · Deadline: 2026-11-28 · Topics: Machine learning
 
-The University of Ljubljana offers two full-time doctoral researcher positions, each with a planned employment duration of 36 months, within the Horizon Europe Marie Skłodowska-Curie Actions Doctoral Network INTELLASE (Intelligent Laser Precision Manufacturing https://cordis.europa.eu/project/id ...</summary>
+Department of Biomedical Engineering (DBE), University of BaselGroup: Analytics &amp; Informatics for Child Health (AICH) in collaboration with University Children's Hospital Basel (UKBB)Starting date: November 2026 or upon agreementDuration: 4 years About UsThe Analytics &amp; Informatics for Child Health...</summary>
+  </entry>
+  <entry>
+    <title>Urgent PhD Position - Battery Interface design using AI-driven modelling and multiscle simulations. · Vrije Universiteit Brussel (BE)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/476659" rel="alternate" />
+    <id>urn:uuid:a8cedcbb-d4a0-56fa-8ebf-c4241d06aef9</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Vrije Universiteit Brussel · Belgium, BE · Deadline: 2026-11-22 · Topics: Artificial intelligence
+
+Eligibility: Must have permission to work in Europe (EU residence, work permit, or equivalent)We, the SUME research group at Vrije Universiteit Brussel (VUB), are seeking a highly motivated PhD candidate to join our research team working at the intersection of advanced battery interface design, AI...</summary>
+  </entry>
+  <entry>
+    <title>PhD Researcher (R1) - for the project „CITADEL - CITizenship And DEmocracy through policy Labs: Transitions for Participation, Trust and Fair Governance”, cod proiect 101289021 · Bucharest University of Economic Studies (RO)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/476519" rel="alternate" />
+    <id>urn:uuid:6d457034-5eaf-5d9b-b438-1639db39d271</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="cybersecurity" label="Cybersecurity" />
+    <summary>Bucharest University of Economic Studies · Romania, RO · Deadline: 2026-11-05 · Topics: Cybersecurity
+
+CITADEL - CITizenship And DEmocracy through policy Labs: Transitions for Participation, Trust and Fair Governanceaims to empower youth, educators, and policymakers to co‑create democratic solutions for urgent societal challenges like climate change, public health, and environmental transitions...</summary>
+  </entry>
+  <entry>
+    <title>PhD Fellow in Trustworthy Generative AI with Knowledge Verification · OsloMet – Oslo Metropolitan University (NO)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/476495" rel="alternate" />
+    <id>urn:uuid:9cef199f-2b00-5bb4-a9bc-44a802577f65</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>OsloMet – Oslo Metropolitan University · Norway, NO · Deadline: 2026-11-18 · Topics: Artificial intelligence
+
+Oslo Metropolitan University is Norway's third largest university with 23,000 students and over 2,600 employees. We have campuses in central Oslo and at Romerike. OsloMet educates students and conducts research that contributes to the sustainability of the Norwegian welfare state and the...</summary>
+  </entry>
+  <entry>
+    <title>Doctoral Researcher in security enhancement and protection on LLM · University of Turku (FI)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/476489" rel="alternate" />
+    <id>urn:uuid:2be2f0df-adaf-5d7d-8637-ecc4d897f65c</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of Turku · Finland, FI · Deadline: 2026-12-16 · Topics: Artificial intelligence
+
+The Department of Computing at the Faculty of Technology invites applications for a full-time Doctoral Researcher position. This role focuses on security enhancement and protection on LLM. The fixed-term position starts based on mutual agreement and ends on 30.9.2029.Job descriptionThis position is...</summary>
+  </entry>
+  <entry>
+    <title>PhD Position in Cloud-Native and AI-Native 6G Networks · UvA (NL)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/476423" rel="alternate" />
+    <id>urn:uuid:0495a693-569b-5a92-8b12-b34063df390d</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <category term="cloud" label="Cloud computing" />
+    <summary>UvA · Netherlands, NL · Deadline: 2026-11-15 · Topics: Artificial intelligence, Cloud computing
+
+Are you passionate about shaping next-generation mobile networks? If so, please continue reading!Join us!Software-defined and programmable networking is a key enabling technology for cloud-native and AI-native 6G networks, supporting greater scalability, flexibility, automation, and efficient...</summary>
+  </entry>
+  <entry>
+    <title>PhD Position in AI for Software Reuse and Agentic Development · TU Delft (NL)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/476409" rel="alternate" />
+    <id>urn:uuid:8fc17f4f-3df3-5aa1-901c-d577661da23f</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>TU Delft · Netherlands, NL · Deadline: 2026-12-01 · Topics: Artificial intelligence
+
+How can AI agents build on existing software instead of reinventing it? Join this collaboration between TU Delft and ING to research more reliable agentic software development.Job descriptionSoftware intensive organizations rely on increasingly large and complex software ecosystems consisting of...</summary>
+  </entry>
+  <entry>
+    <title>PHD Improving Side-Channel Reverse Engineering M/F · Techniques de l'Informatique et de la Microélectronique pour l'Architecture des systèmes intégrés (FR)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/475287" rel="alternate" />
+    <id>urn:uuid:c0b39d97-7fb0-5b9b-b4a5-044f520c25e0</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="cybersecurity" label="Cybersecurity" />
+    <summary>Techniques de l'Informatique et de la Microélectronique pour l'Architecture des systèmes intégrés · France, FR · Deadline: 2026-11-13 · Topics: Cybersecurity
+
+TIMA laboratory is a public research laboratory under the joint supervision of CNRS, Grenoble INP, and Université Grenoble Alpes (UGA). It is located in Grenoble, on the Viallet campus of Grenoble INP-UGA (46 avenue Félix Viallet). TIMA is a multicultural team of approximately 150 people, including...</summary>
+  </entry>
+  <entry>
+    <title>PhD Candidate (M/F) - Natural Language Processing - Using Large Language Models for scientific writing · Laboratoire lorrain de recherche en informatique et ses applications (FR)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/474689" rel="alternate" />
+    <id>urn:uuid:ccd17f51-91a7-518e-bfaf-13ca8174c843</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Laboratoire lorrain de recherche en informatique et ses applications · France, FR · Deadline: 2026-11-11 · Topics: Artificial intelligence
+
+Loria is the French acronym for the “Lorraine Research Laboratory in Computer Science and its Applications” and is a research unit (UMR 7503), common to CNRS, the University of Lorraine, CentraleSupélec and Inria. This unit was officially created in 1997. The successful candidate will be offered a...</summary>
+  </entry>
+  <entry>
+    <title>2026-2445582-Post PHD position- REVGEOIA project-Development of an Artificial Intelligence algorithm for the optimization of geopolymer coating formulation · IRCER (FR)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/474190" rel="alternate" />
+    <id>urn:uuid:b2e70ec3-919c-52ea-bd81-07493feded5a</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>IRCER · France, FR · Deadline: 2026-11-19 · Topics: Artificial intelligence
+
+Development of an Artificial Intelligence algorithm for the optimization of geopolymer coating formulation</summary>
+  </entry>
+  <entry>
+    <title>PhD (M/F) in Semantic Web and Artificial Inteligence · Laboratoire d'Informatique (FR)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/473699" rel="alternate" />
+    <id>urn:uuid:7406ace7-479f-5122-af5c-d17524cc80d5</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Laboratoire d'Informatique · France, FR · Deadline: 2026-11-06 · Topics: Artificial intelligence
+
+This PhD thesis is hosted by the I3S laboratory of CNRS at Université Côte d'Azur. More specifically, the PhD candidate will join the Wimmics team (Inria, Université Côte d'Azur, CNRS, I3S), which conducts research at the intersection of Artificial Intelligence and the Web, with a particular focus...</summary>
   </entry>
   <entry>
     <title>PhD Student (M/F) - Design of Robotic Architectures with Highly Flexible Joints for the Manipulation of Deformable Objects · Laboratoire d'informatique de robotique et de microelectronique de montpellier (FR)</title>
@@ -194,6 +486,16 @@ The University of Ljubljana offers two full-time doctoral researcher positions, 
     <summary>Laboratoire d'informatique de robotique et de microelectronique de montpellier · France, FR · Deadline: 2026-11-02 · Topics: Robotics
 
 This PhD thesis is part of the project DRMI (Dexterous Robotic Manipulation for Industry) of the national research programme “PEPR Robotique” ( https://www.cnrs.fr/en/our-research/france-2030/pepr/robotics ). The goal of this programme is to accelerate the removal of scientific and technical...</summary>
+  </entry>
+  <entry>
+    <title>Doctoral researcher (M/F) in AI - Dynamic logic for conformant and multi-agent epistemic planning · Institut de Recherche en Informatique de Toulouse (FR)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/469311" rel="alternate" />
+    <id>urn:uuid:552c1877-1ca1-5169-a316-c3b7c9fdffcc</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Institut de Recherche en Informatique de Toulouse · France, FR · Deadline: 2026-11-22 · Topics: Artificial intelligence
+
+The Institut de Recherche en Informatique de Toulouse (IRIT) is one of the biggest computer science labs in France. Its AI Department has a long-standing tradition of research in knowledge representation and reasoning. The person recruited will work on the site of the University of Toulouse. Coming...</summary>
   </entry>
   <entry>
     <title>PhD Position MSCA COFUND BEST:  "Hybrid PVD/ALD Multilayer Thin Film Deposition to Enhance Dielectric Breakdown Strength of Future High Voltage Electronic Devices for Sustainable Aeronautics" · University of Toulouse (FR)</title>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PhD offers: Cybersecurity</title>
+  <id>urn:uuid:803fbc15-b75f-5c09-a22f-fae08834b530</id>
+  <updated>2026-11-01T00:00:00Z</updated>
+  <author>
+    <name>PhD finder</name>
+  </author>
+  <entry>
+    <title>PhD Position F/M PhD Position F/M: How does Reasoning with LLM Help Repair Vulnerabilities in Repo-level Software Projects? · Inria (PIRAT) (FR)</title>
+    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10614" rel="alternate" />
+    <id>urn:uuid:c0e1644c-2350-533f-9777-483f5e339f35</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <category term="cybersecurity" label="Cybersecurity" />
+    <summary>Inria (PIRAT) · Rennes, FR · Deadline: 2026-12-15 · Topics: Artificial intelligence, Cybersecurity</summary>
+  </entry>
+  <entry>
+    <title>PhD Researcher (R1) - for the project „CITADEL - CITizenship And DEmocracy through policy Labs: Transitions for Participation, Trust and Fair Governance”, cod proiect 101289021 · Bucharest University of Economic Studies (RO)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/476519" rel="alternate" />
+    <id>urn:uuid:6d457034-5eaf-5d9b-b438-1639db39d271</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="cybersecurity" label="Cybersecurity" />
+    <summary>Bucharest University of Economic Studies · Romania, RO · Deadline: 2026-11-05 · Topics: Cybersecurity
+
+CITADEL - CITizenship And DEmocracy through policy Labs: Transitions for Participation, Trust and Fair Governanceaims to empower youth, educators, and policymakers to co‑create democratic solutions for urgent societal challenges like climate change, public health, and environmental transitions...</summary>
+  </entry>
+  <entry>
+    <title>PHD Improving Side-Channel Reverse Engineering M/F · Techniques de l'Informatique et de la Microélectronique pour l'Architecture des systèmes intégrés (FR)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/475287" rel="alternate" />
+    <id>urn:uuid:c0b39d97-7fb0-5b9b-b4a5-044f520c25e0</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="cybersecurity" label="Cybersecurity" />
+    <summary>Techniques de l'Informatique et de la Microélectronique pour l'Architecture des systèmes intégrés · France, FR · Deadline: 2026-11-13 · Topics: Cybersecurity
+
+TIMA laboratory is a public research laboratory under the joint supervision of CNRS, Grenoble INP, and Université Grenoble Alpes (UGA). It is located in Grenoble, on the Viallet campus of Grenoble INP-UGA (46 avenue Félix Viallet). TIMA is a multicultural team of approximately 150 people, including...</summary>
+  </entry>
+</feed>

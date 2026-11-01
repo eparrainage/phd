@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PhD offers: Cloud computing</title>
+  <id>urn:uuid:f50c09de-2c6c-513f-80f7-bda9911eb1e4</id>
+  <updated>2026-11-01T00:00:00Z</updated>
+  <author>
+    <name>PhD finder</name>
+  </author>
+  <entry>
+    <title>PhD Studentship: High-Efficiency Power Electronics for AI Data Centres and Net-Zero Grids · University of Warwick (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTJ858/phd-studentship-high-efficiency-power-electronics-for-ai-data-centres-and-net-zero-grids" rel="alternate" />
+    <id>urn:uuid:6b1c6aaf-d17f-5888-9e95-0667e7e9161a</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="electrical" label="Electrical engineering" />
+    <category term="ai" label="Artificial intelligence" />
+    <category term="cloud" label="Cloud computing" />
+    <summary>University of Warwick · Coventry, University of Warwick, Warwick, GB · Deadline: 2026-12-01 · Topics: Electrical engineering, Artificial intelligence, Cloud computing</summary>
+  </entry>
+  <entry>
+    <title>PhD Position in Cloud-Native and AI-Native 6G Networks · UvA (NL)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/476423" rel="alternate" />
+    <id>urn:uuid:0495a693-569b-5a92-8b12-b34063df390d</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <category term="cloud" label="Cloud computing" />
+    <summary>UvA · Netherlands, NL · Deadline: 2026-11-15 · Topics: Artificial intelligence, Cloud computing
+
+Are you passionate about shaping next-generation mobile networks? If so, please continue reading!Join us!Software-defined and programmable networking is a key enabling technology for cloud-native and AI-native 6G networks, supporting greater scalability, flexibility, automation, and efficient...</summary>
+  </entry>
+</feed>

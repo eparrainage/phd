@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PhD offers: DevOps</title>
+  <id>urn:uuid:c16f200b-c3e3-5d2c-b8dc-2a2b21841306</id>
+  <updated>2026-01-01T00:00:00Z</updated>
+  <author>
+    <name>PhD finder</name>
+  </author>
+</feed>
