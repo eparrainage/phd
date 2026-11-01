@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PhD offers: Robotics</title>
+  <id>urn:uuid:bf0fb20d-4c43-531a-8c3f-fcc6c924a4ab</id>
+  <updated>2026-11-01T00:00:00Z</updated>
+  <author>
+    <name>PhD finder</name>
+  </author>
+  <entry>
+    <title>PhD Position in Physical AI: Adaptive Foundation Models for Robotics · Aarhus University (AU) (DK)</title>
+    <link href="https://www.nature.com/naturecareers/job/12864918/phd-position-in-physical-ai-adaptive-foundation-models-for-robotics/" rel="alternate" />
+    <id>urn:uuid:687950d1-47ef-529b-ac71-39a9b9c52aad</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <published>2026-09-22T00:00:00Z</published>
+    <category term="robotics" label="Robotics" />
+    <summary>Aarhus University (AU) · Aarhus, Midtjylland, DK · Deadline: not stated · Topics: Robotics
+
+Competitive: The project connects multimodal perception, reasoning and action with predictive learning and edge intelligence.</summary>
+  </entry>
+  <entry>
+    <title>PhD project: Resilient Processes of Nuclear Fusion Plant Maintenance and Decommissioning using Robotic Technologies · University of Nottingham (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTJ092/phd-project-resilient-processes-of-nuclear-fusion-plant-maintenance-and-decommissioning-using-robotic-technologies" rel="alternate" />
+    <id>urn:uuid:6683b4a9-b4aa-5ae5-affc-ec2259897334</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="robotics" label="Robotics" />
+    <summary>University of Nottingham · Nottingham, GB · Deadline: 2027-01-21 · Topics: Robotics</summary>
+  </entry>
+  <entry>
+    <title>Efficient Physical AI for Real-World Robotics – Funded PhD Studentship · Durham University (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTI242/efficient-physical-ai-for-real-world-robotics-funded-phd-studentship" rel="alternate" />
+    <id>urn:uuid:f36b7c66-46ea-5b9c-a420-513e37b15233</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="robotics" label="Robotics" />
+    <summary>Durham University · Durham, GB · Deadline: 2027-01-19 · Topics: Robotics</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship (Part-Time) in Control Systems and Robotics (Postgraduate Research Teaching Associate) · The University of Manchester (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTG045/phd-studentship-part-time-in-control-systems-and-robotics-postgraduate-research-teaching-associate" rel="alternate" />
+    <id>urn:uuid:9c5b18ee-7f4a-5d8f-acb3-c54f1f1055b4</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="robotics" label="Robotics" />
+    <category term="electrical" label="Electrical engineering" />
+    <summary>The University of Manchester · Manchester, GB · Deadline: 2026-12-31 · Topics: Robotics, Electrical engineering</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: The Physics of Learning in Robotic Metamaterials · University of Birmingham (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DSN384/phd-studentship-the-physics-of-learning-in-robotic-metamaterials" rel="alternate" />
+    <id>urn:uuid:ae630f19-6b4c-576b-bfb9-280d57346286</id>
+    <updated>2026-11-01T00:00:00Z</updated>
+    <category term="robotics" label="Robotics" />
+    <summary>University of Birmingham · Birmingham, GB · Deadline: 2027-01-06 · Topics: Robotics</summary>
+  </entry>
+</feed>

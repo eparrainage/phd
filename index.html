@@ -1,0 +1,364 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PhD positions · Ensamien Parrainage</title>
+<meta name="description" content="Open PhD positions in robotics, electromechanical and electrical engineering in Europe and Morocco, updated twice a day.">
+<meta name="theme-color" content="#560261">
+<link rel="canonical" href="https://eparrainage.github.io/phd/">
+<meta property="og:title" content="Open PhD positions · Ensamien Parrainage">
+<meta property="og:description" content="Robotics, electromechanical and electrical engineering PhDs in Europe and Morocco, updated twice a day.">
+<meta property="og:url" content="https://eparrainage.github.io/phd/">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23560261'/%3E%3Cpath d='M11 7h6.5a5.5 5.5 0 0 1 0 11H15v7h-4zm4 4v3h2.3a1.5 1.5 0 0 0 0-3z' fill='white'/%3E%3C/svg%3E">
+<link rel="alternate" type="application/atom+xml" title="All PhD offers" href="phd-all.xml">
+<link rel="preload" href="/assets/fonts/inter.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+@font-face{font-family:"Inter";font-style:normal;font-weight:400 800;font-display:swap;src:url(/assets/fonts/inter.woff2) format("woff2")}
+:root{
+--background:#fff;--foreground:#191919;--text:#37352f;--muted:#f7f7f5;--muted-foreground:#6b6a66;--subtle:#fbfbfa;
+--border:rgba(55,53,47,.12);--border-strong:rgba(55,53,47,.2);--hover:rgba(55,53,47,.06);
+--primary:#560261;--primary-hover:#470150;--primary-soft:#f6ecf7;--primary-soft-strong:#eddcf0;--ring:rgba(86,2,97,.28);
+--tag-gray:#e3e2e0;--tag-gray-ink:#32302c;--tag-green:#dbeddb;--tag-green-ink:#1c3829;--tag-purple:#e8deee;--tag-purple-ink:#412454;
+--tag-blue:#d3e5ef;--tag-blue-ink:#183347;--tag-yellow:#fdecc8;--tag-yellow-ink:#402c1b;--tag-red:#ffe2dd;--tag-red-ink:#5d1715;
+--r-xs:4px;--r-sm:6px;--r-md:8px;--r-lg:12px;--r-xl:16px;
+--shadow-card:0 0 0 1px rgba(15,15,15,.06),0 2px 4px rgba(15,15,15,.06);
+--font-sans:"Inter",ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+--tap:44px;--gutter:16px;--ease:cubic-bezier(.2,0,0,1);
+color-scheme:light;font-family:var(--font-sans);font-synthesis:none;-webkit-text-size-adjust:100%
+}
+*{box-sizing:border-box}
+html,body{max-width:100%;overflow-x:clip}
+body{margin:0;background:var(--background);color:var(--text);font-size:16px;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+h1,h2,h3{color:var(--foreground);font-weight:700;letter-spacing:-.03em;line-height:1.15;text-wrap:balance;margin:0}
+p{margin:0}
+[hidden]{display:none!important}
+::selection{background:var(--primary-soft-strong);color:var(--primary)}
+:focus-visible{outline:2px solid var(--primary);outline-offset:2px;border-radius:var(--r-xs)}
+.icon{width:18px;height:18px;flex:none;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.wrap{width:100%;max-width:1080px;margin:0 auto;padding:0 var(--gutter)}
+.skip{position:absolute;left:-999px;top:8px;z-index:60;padding:8px 12px;border-radius:var(--r-sm);background:var(--primary);color:#fff}
+.skip:focus{left:8px}
+.top{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.86);backdrop-filter:saturate(1.6) blur(10px);-webkit-backdrop-filter:saturate(1.6) blur(10px);border-bottom:1px solid var(--border)}
+.top .wrap{display:flex;align-items:center;gap:8px;height:60px}
+.brand{display:inline-flex;align-items:center;gap:9px;min-height:var(--tap);color:var(--foreground);text-decoration:none;margin-right:auto}
+.brand-mark{display:grid;place-items:center;width:28px;height:28px;flex:none;border:2px solid var(--foreground);border-radius:6px;background:#fff;font-size:1rem;font-weight:800;line-height:1;box-shadow:2px 2px 0 var(--primary)}
+.brand-word{font-size:1.02rem;font-weight:700;letter-spacing:-.02em}
+.nav{display:flex;gap:2px}
+.nav a{display:inline-flex;align-items:center;min-height:36px;padding:0 10px;border-radius:var(--r-sm);color:var(--muted-foreground);font-size:.9rem;font-weight:500;text-decoration:none}
+.nav a:hover{background:var(--hover);color:var(--foreground)}
+.nav a[aria-current]{background:var(--primary-soft);color:var(--primary)}
+@media(max-width:640px){.nav{display:none}}
+.btn{appearance:none;border:1px solid transparent;border-radius:var(--r-md);min-height:var(--tap);padding:10px 16px;background:var(--primary);color:#fff;font:inherit;font-size:.95rem;font-weight:500;line-height:1.15;text-decoration:none;white-space:nowrap;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:8px;transition:background .15s var(--ease)}
+.btn:hover{background:var(--primary-hover)}
+.btn.outline{background:var(--background);color:var(--text);border-color:var(--border-strong)}
+.btn.outline:hover{background:var(--hover)}
+.btn.sm{min-height:36px;padding:6px 12px;font-size:.88rem}
+.btn.sm .icon{width:16px;height:16px}
+.eyebrow{display:inline-flex;align-items:center;gap:6px;min-height:24px;padding:1px 9px;border-radius:var(--r-xs);background:var(--tag-purple);color:var(--tag-purple-ink);font-size:.8rem;font-weight:500}
+.tag{display:inline-flex;align-items:center;min-height:20px;padding:0 7px;border-radius:var(--r-xs);background:var(--tag-gray);color:var(--tag-gray-ink);font-size:.72rem;font-weight:500;white-space:nowrap}
+.tag.green{background:var(--tag-green);color:var(--tag-green-ink)}
+.tag.blue{background:var(--tag-blue);color:var(--tag-blue-ink)}
+.tag.yellow{background:var(--tag-yellow);color:var(--tag-yellow-ink)}
+.tag.purple{background:var(--tag-purple);color:var(--tag-purple-ink)}
+.tag.red{background:var(--tag-red);color:var(--tag-red-ink)}
+.hero{padding:56px 0 28px;text-align:center}
+.hero h1{margin:18px auto 0;max-width:780px;font-size:clamp(2rem,5.5vw,3.2rem);letter-spacing:-.045em}
+.hl{position:relative;white-space:nowrap;color:var(--primary);z-index:0}
+.hl i{position:absolute;left:-4px;right:-4px;bottom:.08em;height:.32em;background:var(--primary-soft-strong);border-radius:3px;z-index:-1}
+.lede{margin:16px auto 0;max-width:620px;color:var(--muted-foreground);font-size:clamp(1rem,2.4vw,1.1rem)}
+.stats{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin-top:20px;color:var(--muted-foreground);font-size:.88rem}
+.stats b{color:var(--foreground)}
+.band{background:var(--subtle);border-block:1px solid var(--border)}
+.tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center;padding:16px 0}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{appearance:none;display:inline-flex;align-items:center;gap:6px;min-height:36px;padding:0 12px;border:1px solid var(--border-strong);border-radius:var(--r-md);background:#fff;color:var(--text);font:inherit;font-size:.88rem;font-weight:500;cursor:pointer}
+.chip:hover{background:var(--hover)}
+.chip small{color:var(--muted-foreground);font-size:.78rem}
+.chip[aria-pressed=true]{background:var(--primary-soft);border-color:var(--primary-soft-strong);color:var(--primary)}
+.chip[aria-pressed=true] small{color:var(--primary)}
+.find{display:flex;gap:8px;flex:1 1 280px}
+.find input,.find select{min-height:36px;border:1px solid var(--border-strong);border-radius:var(--r-md);background:#fff;color:var(--text);font:inherit;font-size:.9rem;padding:0 12px}
+.find input{flex:1;min-width:0}
+.find input:focus,.find select:focus{outline:2px solid var(--ring);outline-offset:0;border-color:var(--primary)}
+.list{display:grid;gap:12px;padding:24px 0}
+.count{color:var(--muted-foreground);font-size:.85rem}
+.offer{padding:18px 20px;border:1px solid var(--border);border-radius:var(--r-lg);background:#fff;box-shadow:var(--shadow-card)}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px}
+.offer h3{font-size:1.08rem;letter-spacing:-.02em;line-height:1.35}
+.offer h3 a{text-decoration:none}
+.offer h3 a:hover{color:var(--primary);text-decoration:underline;text-underline-offset:3px}
+.meta{display:flex;flex-wrap:wrap;gap:2px 14px;margin-top:6px;color:var(--muted-foreground);font-size:.92rem}
+.meta b{color:var(--text);font-weight:500}
+.offer-foot{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:14px}
+.due{display:inline-flex;align-items:center;gap:6px;margin-right:auto;color:var(--muted-foreground);font-size:.88rem}
+.due .icon{width:16px;height:16px}
+.due b{color:var(--foreground);font-weight:600}
+.due.soon{padding:2px 8px;border-radius:var(--r-xs);background:var(--tag-red);color:var(--tag-red-ink)}
+.due.soon b{color:var(--tag-red-ink)}
+.empty{padding:40px 16px;border:1px dashed var(--border-strong);border-radius:var(--r-lg);color:var(--muted-foreground);text-align:center}
+footer{margin-top:24px;padding:28px 0 40px;border-top:1px solid var(--border);color:var(--muted-foreground);font-size:.88rem}
+footer .wrap{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center}
+footer nav{display:flex;flex-wrap:wrap;gap:16px;margin-left:auto}
+footer a{text-decoration:none}
+footer a:hover{color:var(--foreground)}
+footer .feeds{flex-basis:100%;display:flex;flex-wrap:wrap;gap:6px 14px}
+footer .feeds a{text-decoration:underline;text-underline-offset:3px}
+@media(max-width:560px){.offer{padding:16px}.due{flex-basis:100%}.offer-foot .btn{flex:1}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+<symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+<symbol id="i-in" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M8 10v7M8 7v.01M12 17v-4a2 2 0 0 1 4 0v4M12 10v7"/></symbol>
+<symbol id="i-school" viewBox="0 0 24 24"><path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c3 2 9 2 12 0v-5"/></symbol>
+<symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+<symbol id="i-share" viewBox="0 0 24 24"><path d="M4 20l1.4-4.2A8 8 0 1 1 8.4 18.7z"/><path d="M9 10.5c.5 1.6 1.9 3 3.5 3.5"/></symbol>
+<symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></symbol>
+</svg>
+<header class="top">
+<div class="wrap">
+<a class="brand" href="/" aria-label="Ensamien Parrainage home"><span class="brand-mark" aria-hidden="true">P</span><span class="brand-word">Ensamien Parrainage</span></a>
+<nav class="nav" aria-label="Opportunities"><a href="./" aria-current="page">PhD positions</a><a href="/">Home</a></nav>
+<a class="btn sm outline" href="https://www.linkedin.com/company/ensamien-parrainage/" rel="noopener"><svg class="icon"><use href="#i-in"/></svg>Follow</a>
+</div>
+</header>
+<main id="main">
+<div class="wrap">
+<section class="hero">
+<span class="eyebrow"><svg class="icon" style="width:14px;height:14px"><use href="#i-school"/></svg>Opportunities</span>
+<h1>Open PhD <span class="hl"><i aria-hidden="true"></i>positions</span>.</h1>
+<p class="lede">Robotics, electromechanical and electrical engineering PhDs in Europe and Morocco, gathered in one place. Open an offer to read the details and apply on the official site.</p>
+<p class="stats"><span><b>20</b> open offers</span><span>·</span><span>Updated 1 Nov 2026</span><span>·</span><span>Refreshed twice a day</span></p>
+</section>
+</div>
+<div class="band">
+<div class="wrap tools">
+<div class="chips" role="group" aria-label="Topic"><button class="chip" data-topic="" aria-pressed="true">All<small>20</small></button><button class="chip" data-topic="robotics" aria-pressed="false">Robotics<small>5</small></button><button class="chip" data-topic="electromechanical" aria-pressed="false">Electromechanical<small>1</small></button><button class="chip" data-topic="electrical" aria-pressed="false">Electrical<small>15</small></button></div>
+<div class="find"><input id="q" type="search" placeholder="Search a university, country or topic" aria-label="Search offers">
+<select id="sort" aria-label="Sort offers"><option value="new">Newest first</option><option value="deadline">Deadline soonest</option></select></div>
+</div>
+</div>
+<div class="wrap list" id="list">
+<p class="count" id="count">20 offers</p>
+
+<article class="offer" data-topics="electrical" data-deadline="9999-12-31" data-seen="2026-11-01" data-search="up to 10 research assistants (phd positions) (f/m/d) paderborn university paderborn (stadt), nordrhein-westfalen, germany electrical">
+<div class="tags"><span class="tag green">New</span><span class="tag yellow">Electrical</span></div>
+<h3><a href="https://www.nature.com/naturecareers/job/12865980/up-to-10-research-assistants-phd-positions-f-m-d-/" target="_blank" rel="noopener">Up to 10 Research Assistants (PhD positions) (f/m/d)</a></h3>
+<p class="meta"><b>Paderborn University</b><span>🇩🇪 Paderborn (Stadt), Nordrhein-Westfalen, Germany</span></p>
+<div class="offer-foot"><span class="due"><svg class="icon"><use href="#i-clock"/></svg>Deadline not stated</span>
+<a class="btn sm outline" href="https://wa.me/?text=%2AUp%20to%2010%20Research%20Assistants%20%28PhD%20positions%29%20%28f%2Fm%2Fd%29%2A%0APaderborn%20University%0AGermany%0Ahttps%3A%2F%2Fwww.nature.com%2Fnaturecareers%2Fjob%2F12865980%2Fup-to-10-research-assistants-phd-positions-f-m-d-%2F" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.nature.com/naturecareers/job/12865980/up-to-10-research-assistants-phd-positions-f-m-d-/" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="robotics" data-deadline="9999-12-31" data-seen="2026-11-01" data-search="phd position in physical ai: adaptive foundation models for robotics aarhus university (au) aarhus, midtjylland, denmark robotics">
+<div class="tags"><span class="tag green">New</span><span class="tag purple">Robotics</span></div>
+<h3><a href="https://www.nature.com/naturecareers/job/12864918/phd-position-in-physical-ai-adaptive-foundation-models-for-robotics/" target="_blank" rel="noopener">PhD Position in Physical AI: Adaptive Foundation Models for Robotics</a></h3>
+<p class="meta"><b>Aarhus University (AU)</b><span>🇩🇰 Aarhus, Midtjylland, Denmark</span></p>
+<div class="offer-foot"><span class="due"><svg class="icon"><use href="#i-clock"/></svg>Deadline not stated</span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20Position%20in%20Physical%20AI%3A%20Adaptive%20Foundation%20Models%20for%20Robotics%2A%0AAarhus%20University%20%28AU%29%0ADenmark%0Ahttps%3A%2F%2Fwww.nature.com%2Fnaturecareers%2Fjob%2F12864918%2Fphd-position-in-physical-ai-adaptive-foundation-models-for-robotics%2F" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.nature.com/naturecareers/job/12864918/phd-position-in-physical-ai-adaptive-foundation-models-for-robotics/" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="electrical" data-deadline="2026-12-01" data-seen="2026-11-01" data-search="phd studentship: high-efficiency power electronics for ai data centres and net-zero grids university of warwick coventry, university of warwick, warwick, united kingdom electrical">
+<div class="tags"><span class="tag green">New</span><span class="tag yellow">Electrical</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DTJ858/phd-studentship-high-efficiency-power-electronics-for-ai-data-centres-and-net-zero-grids" target="_blank" rel="noopener">PhD Studentship: High-Efficiency Power Electronics for AI Data Centres and Net-Zero Grids</a></h3>
+<p class="meta"><b>University of Warwick</b><span>🇬🇧 Coventry, University of Warwick, Warwick, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2026-12-01"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>1 Dec 2026</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20Studentship%3A%20High-Efficiency%20Power%20Electronics%20for%20AI%20Data%20Centres%20and%20Net-Zero%20Grids%2A%0AUniversity%20of%20Warwick%0AUnited%20Kingdom%0ADeadline%3A%201%20Dec%202026%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDTJ858%2Fphd-studentship-high-efficiency-power-electronics-for-ai-data-centres-and-net-zero-grids" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DTJ858/phd-studentship-high-efficiency-power-electronics-for-ai-data-centres-and-net-zero-grids" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="electrical" data-deadline="2026-11-30" data-seen="2026-11-01" data-search="phd studentship: click-to-connect cytochromes: modular components for sustainable electrical circuits university of east anglia norwich, united kingdom electrical">
+<div class="tags"><span class="tag green">New</span><span class="tag yellow">Electrical</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DTJ520/phd-studentship-click-to-connect-cytochromes-modular-components-for-sustainable-electrical-circuits" target="_blank" rel="noopener">PhD Studentship: Click-to-Connect Cytochromes: Modular Components for Sustainable Electrical Circuits</a></h3>
+<p class="meta"><b>University of East Anglia</b><span>🇬🇧 Norwich, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2026-11-30"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>30 Nov 2026</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20Studentship%3A%20Click-to-Connect%20Cytochromes%3A%20Modular%20Components%20for%20Sustainable%20Electrical%20Circuits%2A%0AUniversity%20of%20East%20Anglia%0AUnited%20Kingdom%0ADeadline%3A%2030%20Nov%202026%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDTJ520%2Fphd-studentship-click-to-connect-cytochromes-modular-components-for-sustainable-electrical-circuits" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DTJ520/phd-studentship-click-to-connect-cytochromes-modular-components-for-sustainable-electrical-circuits" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="electrical" data-deadline="2026-12-02" data-seen="2026-11-01" data-search="phd studentship: data-driven control engineering for large-scale uncertain systems university of oxford oxford, united kingdom electrical">
+<div class="tags"><span class="tag green">New</span><span class="tag yellow">Electrical</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DTJ272/phd-studentship-data-driven-control-engineering-for-large-scale-uncertain-systems" target="_blank" rel="noopener">PhD Studentship: Data-driven Control Engineering for Large-scale Uncertain Systems</a></h3>
+<p class="meta"><b>University of Oxford</b><span>🇬🇧 Oxford, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2026-12-02"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>2 Dec 2026</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20Studentship%3A%20Data-driven%20Control%20Engineering%20for%20Large-scale%20Uncertain%20Systems%2A%0AUniversity%20of%20Oxford%0AUnited%20Kingdom%0ADeadline%3A%202%20Dec%202026%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDTJ272%2Fphd-studentship-data-driven-control-engineering-for-large-scale-uncertain-systems" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DTJ272/phd-studentship-data-driven-control-engineering-for-large-scale-uncertain-systems" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="electrical" data-deadline="2026-12-02" data-seen="2026-11-01" data-search="phd studentship: research studentship in control engineering- sustainable and circular ai systems university of oxford oxford, united kingdom electrical">
+<div class="tags"><span class="tag green">New</span><span class="tag yellow">Electrical</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DTJ125/phd-studentship-research-studentship-in-control-engineering-sustainable-and-circular-ai-systems" target="_blank" rel="noopener">PhD Studentship: Research Studentship in Control Engineering- Sustainable and Circular AI Systems</a></h3>
+<p class="meta"><b>University of Oxford</b><span>🇬🇧 Oxford, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2026-12-02"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>2 Dec 2026</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20Studentship%3A%20Research%20Studentship%20in%20Control%20Engineering-%20Sustainable%20and%20Circular%20AI%20Systems%2A%0AUniversity%20of%20Oxford%0AUnited%20Kingdom%0ADeadline%3A%202%20Dec%202026%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDTJ125%2Fphd-studentship-research-studentship-in-control-engineering-sustainable-and-circular-ai-systems" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DTJ125/phd-studentship-research-studentship-in-control-engineering-sustainable-and-circular-ai-systems" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="electrical" data-deadline="2027-01-21" data-seen="2026-11-01" data-search="phd project: microgrid resilience university of nottingham nottingham, united kingdom electrical">
+<div class="tags"><span class="tag green">New</span><span class="tag yellow">Electrical</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DTJ094/phd-project-microgrid-resilience" target="_blank" rel="noopener">PhD Project: Microgrid Resilience</a></h3>
+<p class="meta"><b>University of Nottingham</b><span>🇬🇧 Nottingham, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2027-01-21"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>21 Jan 2027</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20Project%3A%20Microgrid%20Resilience%2A%0AUniversity%20of%20Nottingham%0AUnited%20Kingdom%0ADeadline%3A%2021%20Jan%202027%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDTJ094%2Fphd-project-microgrid-resilience" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DTJ094/phd-project-microgrid-resilience" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="robotics" data-deadline="2027-01-21" data-seen="2026-11-01" data-search="phd project: resilient processes of nuclear fusion plant maintenance and decommissioning using robotic technologies university of nottingham nottingham, united kingdom robotics">
+<div class="tags"><span class="tag green">New</span><span class="tag purple">Robotics</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DTJ092/phd-project-resilient-processes-of-nuclear-fusion-plant-maintenance-and-decommissioning-using-robotic-technologies" target="_blank" rel="noopener">PhD project: Resilient Processes of Nuclear Fusion Plant Maintenance and Decommissioning using Robotic Technologies</a></h3>
+<p class="meta"><b>University of Nottingham</b><span>🇬🇧 Nottingham, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2027-01-21"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>21 Jan 2027</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20project%3A%20Resilient%20Processes%20of%20Nuclear%20Fusion%20Plant%20Maintenance%20and%20Decommissioning%20using%20Robotic%20Technologies%2A%0AUniversity%20of%20Nottingham%0AUnited%20Kingdom%0ADeadline%3A%2021%20Jan%202027%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDTJ092%2Fphd-project-resilient-processes-of-nuclear-fusion-plant-maintenance-and-decommissioning-using-robotic-technologies" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DTJ092/phd-project-resilient-processes-of-nuclear-fusion-plant-maintenance-and-decommissioning-using-robotic-technologies" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="robotics" data-deadline="2027-01-19" data-seen="2026-11-01" data-search="efficient physical ai for real-world robotics – funded phd studentship durham university durham, united kingdom robotics">
+<div class="tags"><span class="tag green">New</span><span class="tag purple">Robotics</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DTI242/efficient-physical-ai-for-real-world-robotics-funded-phd-studentship" target="_blank" rel="noopener">Efficient Physical AI for Real-World Robotics – Funded PhD Studentship</a></h3>
+<p class="meta"><b>Durham University</b><span>🇬🇧 Durham, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2027-01-19"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>19 Jan 2027</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2AEfficient%20Physical%20AI%20for%20Real-World%20Robotics%20-%20Funded%20PhD%20Studentship%2A%0ADurham%20University%0AUnited%20Kingdom%0ADeadline%3A%2019%20Jan%202027%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDTI242%2Fefficient-physical-ai-for-real-world-robotics-funded-phd-studentship" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DTI242/efficient-physical-ai-for-real-world-robotics-funded-phd-studentship" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="electrical" data-deadline="2027-01-31" data-seen="2026-11-01" data-search="phd - epsrc - topological and other types of photonics devices for sensing, modulation and other applications the university of manchester manchester, united kingdom electrical">
+<div class="tags"><span class="tag green">New</span><span class="tag yellow">Electrical</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DTH368/phd-epsrc-topological-and-other-types-of-photonics-devices-for-sensing-modulation-and-other-applications" target="_blank" rel="noopener">PhD - EPSRC - Topological and Other Types of Photonics Devices for Sensing, Modulation and Other Applications</a></h3>
+<p class="meta"><b>The University of Manchester</b><span>🇬🇧 Manchester, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2027-01-31"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>31 Jan 2027</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20-%20EPSRC%20-%20Topological%20and%20Other%20Types%20of%20Photonics%20Devices%20for%20Sensing%2C%20Modulation%20and%20Other%20Applications%2A%0AThe%20University%20of%20Manchester%0AUnited%20Kingdom%0ADeadline%3A%2031%20Jan%202027%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDTH368%2Fphd-epsrc-topological-and-other-types-of-photonics-devices-for-sensing-modulation-and-other-applications" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DTH368/phd-epsrc-topological-and-other-types-of-photonics-devices-for-sensing-modulation-and-other-applications" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="robotics electrical" data-deadline="2026-12-31" data-seen="2026-11-01" data-search="phd studentship (part-time) in control systems and robotics (postgraduate research teaching associate) the university of manchester manchester, united kingdom robotics electrical">
+<div class="tags"><span class="tag green">New</span><span class="tag purple">Robotics</span><span class="tag yellow">Electrical</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DTG045/phd-studentship-part-time-in-control-systems-and-robotics-postgraduate-research-teaching-associate" target="_blank" rel="noopener">PhD Studentship (Part-Time) in Control Systems and Robotics (Postgraduate Research Teaching Associate)</a></h3>
+<p class="meta"><b>The University of Manchester</b><span>🇬🇧 Manchester, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2026-12-31"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>31 Dec 2026</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20Studentship%20%28Part-Time%29%20in%20Control%20Systems%20and%20Robotics%20%28Postgraduate%20Research%20Teaching%20Associate%29%2A%0AThe%20University%20of%20Manchester%0AUnited%20Kingdom%0ADeadline%3A%2031%20Dec%202026%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDTG045%2Fphd-studentship-part-time-in-control-systems-and-robotics-postgraduate-research-teaching-associate" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DTG045/phd-studentship-part-time-in-control-systems-and-robotics-postgraduate-research-teaching-associate" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="electrical" data-deadline="2026-11-30" data-seen="2026-11-01" data-search="phd studentship: source-independent protection for inverter-dominated power networks the university of manchester manchester, united kingdom electrical">
+<div class="tags"><span class="tag green">New</span><span class="tag yellow">Electrical</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DTD884/phd-studentship-source-independent-protection-for-inverter-dominated-power-networks" target="_blank" rel="noopener">PhD Studentship: Source-Independent Protection for Inverter-Dominated Power Networks</a></h3>
+<p class="meta"><b>The University of Manchester</b><span>🇬🇧 Manchester, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2026-11-30"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>30 Nov 2026</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20Studentship%3A%20Source-Independent%20Protection%20for%20Inverter-Dominated%20Power%20Networks%2A%0AThe%20University%20of%20Manchester%0AUnited%20Kingdom%0ADeadline%3A%2030%20Nov%202026%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDTD884%2Fphd-studentship-source-independent-protection-for-inverter-dominated-power-networks" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DTD884/phd-studentship-source-independent-protection-for-inverter-dominated-power-networks" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="electrical" data-deadline="2026-12-23" data-seen="2026-11-01" data-search="phd project (uk students only) in optically controlled radio-frequency integrated circuits university of bristol bristol, united kingdom electrical">
+<div class="tags"><span class="tag green">New</span><span class="tag yellow">Electrical</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DTA531/phd-project-uk-students-only-in-optically-controlled-radio-frequency-integrated-circuits" target="_blank" rel="noopener">PhD Project (UK Students Only) in Optically Controlled Radio-Frequency Integrated Circuits</a></h3>
+<p class="meta"><b>University of Bristol</b><span>🇬🇧 Bristol, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2026-12-23"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>23 Dec 2026</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20Project%20%28UK%20Students%20Only%29%20in%20Optically%20Controlled%20Radio-Frequency%20Integrated%20Circuits%2A%0AUniversity%20of%20Bristol%0AUnited%20Kingdom%0ADeadline%3A%2023%20Dec%202026%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDTA531%2Fphd-project-uk-students-only-in-optically-controlled-radio-frequency-integrated-circuits" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DTA531/phd-project-uk-students-only-in-optically-controlled-radio-frequency-integrated-circuits" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="electrical" data-deadline="2026-11-23" data-seen="2026-11-01" data-search="phd studentship: electrical sensing of dynamic cardiovascular volume in a benchtop model university of east anglia norwich, united kingdom electrical">
+<div class="tags"><span class="tag green">New</span><span class="tag yellow">Electrical</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DSZ893/phd-studentship-electrical-sensing-of-dynamic-cardiovascular-volume-in-a-benchtop-model" target="_blank" rel="noopener">PhD Studentship: Electrical Sensing of Dynamic Cardiovascular Volume in a Benchtop Model</a></h3>
+<p class="meta"><b>University of East Anglia</b><span>🇬🇧 Norwich, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2026-11-23"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>23 Nov 2026</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20Studentship%3A%20Electrical%20Sensing%20of%20Dynamic%20Cardiovascular%20Volume%20in%20a%20Benchtop%20Model%2A%0AUniversity%20of%20East%20Anglia%0AUnited%20Kingdom%0ADeadline%3A%2023%20Nov%202026%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDSZ893%2Fphd-studentship-electrical-sensing-of-dynamic-cardiovascular-volume-in-a-benchtop-model" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DSZ893/phd-studentship-electrical-sensing-of-dynamic-cardiovascular-volume-in-a-benchtop-model" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="electrical" data-deadline="2027-01-07" data-seen="2026-11-01" data-search="phd studentship: bioresorbable intestinal devices with embedded resorbable sensors for gastrointestinal monitoring university of birmingham birmingham, united kingdom electrical">
+<div class="tags"><span class="tag green">New</span><span class="tag yellow">Electrical</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DSZ327/phd-studentship-bioresorbable-intestinal-devices-with-embedded-resorbable-sensors-for-gastrointestinal-monitoring" target="_blank" rel="noopener">PhD Studentship: Bioresorbable Intestinal Devices with Embedded Resorbable Sensors for Gastrointestinal Monitoring</a></h3>
+<p class="meta"><b>University of Birmingham</b><span>🇬🇧 Birmingham, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2027-01-07"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>7 Jan 2027</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20Studentship%3A%20Bioresorbable%20Intestinal%20Devices%20with%20Embedded%20Resorbable%20Sensors%20for%20Gastrointestinal%20Monitoring%2A%0AUniversity%20of%20Birmingham%0AUnited%20Kingdom%0ADeadline%3A%207%20Jan%202027%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDSZ327%2Fphd-studentship-bioresorbable-intestinal-devices-with-embedded-resorbable-sensors-for-gastrointestinal-monitoring" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DSZ327/phd-studentship-bioresorbable-intestinal-devices-with-embedded-resorbable-sensors-for-gastrointestinal-monitoring" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="electromechanical" data-deadline="2026-12-14" data-seen="2026-11-01" data-search="phd studentship - sustainable multi-sector electrification using advanced integrated motor drive technologies university of nottingham nottingham, united kingdom electromechanical">
+<div class="tags"><span class="tag green">New</span><span class="tag blue">Electromechanical</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DSX858/phd-studentship-sustainable-multi-sector-electrification-using-advanced-integrated-motor-drive-technologies" target="_blank" rel="noopener">PhD Studentship - Sustainable Multi-Sector Electrification Using Advanced Integrated Motor Drive Technologies</a></h3>
+<p class="meta"><b>University of Nottingham</b><span>🇬🇧 Nottingham, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2026-12-14"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>14 Dec 2026</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20Studentship%20-%20Sustainable%20Multi-Sector%20Electrification%20Using%20Advanced%20Integrated%20Motor%20Drive%20Technologies%2A%0AUniversity%20of%20Nottingham%0AUnited%20Kingdom%0ADeadline%3A%2014%20Dec%202026%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDSX858%2Fphd-studentship-sustainable-multi-sector-electrification-using-advanced-integrated-motor-drive-technologies" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DSX858/phd-studentship-sustainable-multi-sector-electrification-using-advanced-integrated-motor-drive-technologies" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="electrical" data-deadline="2026-12-09" data-seen="2026-11-01" data-search="phd studentship - arc fault analysis in modern aerospace power drive systems the university of manchester manchester, united kingdom electrical">
+<div class="tags"><span class="tag green">New</span><span class="tag yellow">Electrical</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DSW590/phd-studentship-arc-fault-analysis-in-modern-aerospace-power-drive-systems" target="_blank" rel="noopener">PhD Studentship - Arc Fault Analysis in Modern Aerospace Power Drive Systems</a></h3>
+<p class="meta"><b>The University of Manchester</b><span>🇬🇧 Manchester, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2026-12-09"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>9 Dec 2026</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20Studentship%20-%20Arc%20Fault%20Analysis%20in%20Modern%20Aerospace%20Power%20Drive%20Systems%2A%0AThe%20University%20of%20Manchester%0AUnited%20Kingdom%0ADeadline%3A%209%20Dec%202026%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDSW590%2Fphd-studentship-arc-fault-analysis-in-modern-aerospace-power-drive-systems" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DSW590/phd-studentship-arc-fault-analysis-in-modern-aerospace-power-drive-systems" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="robotics" data-deadline="2027-01-06" data-seen="2026-11-01" data-search="phd studentship: the physics of learning in robotic metamaterials university of birmingham birmingham, united kingdom robotics">
+<div class="tags"><span class="tag green">New</span><span class="tag purple">Robotics</span></div>
+<h3><a href="https://www.jobs.ac.uk/job/DSN384/phd-studentship-the-physics-of-learning-in-robotic-metamaterials" target="_blank" rel="noopener">PhD Studentship: The Physics of Learning in Robotic Metamaterials</a></h3>
+<p class="meta"><b>University of Birmingham</b><span>🇬🇧 Birmingham, United Kingdom</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2027-01-06"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>6 Jan 2027</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2APhD%20Studentship%3A%20The%20Physics%20of%20Learning%20in%20Robotic%20Metamaterials%2A%0AUniversity%20of%20Birmingham%0AUnited%20Kingdom%0ADeadline%3A%206%20Jan%202027%0Ahttps%3A%2F%2Fwww.jobs.ac.uk%2Fjob%2FDSN384%2Fphd-studentship-the-physics-of-learning-in-robotic-metamaterials" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://www.jobs.ac.uk/job/DSN384/phd-studentship-the-physics-of-learning-in-robotic-metamaterials" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="electrical" data-deadline="2026-11-24" data-seen="2026-11-01" data-search="doctoral training grants 2026 (fd 2026) universitat poliotècnica de catalunya spain electrical">
+<div class="tags"><span class="tag green">New</span><span class="tag yellow">Electrical</span></div>
+<h3><a href="https://euraxess.ec.europa.eu/jobs/476608" target="_blank" rel="noopener">Doctoral Training Grants 2026 (FD 2026)</a></h3>
+<p class="meta"><b>Universitat Poliotècnica de Catalunya</b><span>🇪🇸 Spain</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2026-11-24"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>24 Nov 2026</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2ADoctoral%20Training%20Grants%202026%20%28FD%202026%29%2A%0AUniversitat%20Poliot%C3%A8cnica%20de%20Catalunya%0ASpain%0ADeadline%3A%2024%20Nov%202026%0Ahttps%3A%2F%2Feuraxess.ec.europa.eu%2Fjobs%2F476608" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://euraxess.ec.europa.eu/jobs/476608" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<article class="offer" data-topics="electrical" data-deadline="2026-12-15" data-seen="2026-11-01" data-search="msca doctoral network intellase – two doctoral researcher positions in intelligent laser precision manufacturing university of ljubljana slovenia electrical">
+<div class="tags"><span class="tag green">New</span><span class="tag yellow">Electrical</span></div>
+<h3><a href="https://euraxess.ec.europa.eu/jobs/476558" target="_blank" rel="noopener">MSCA Doctoral Network INTELLASE – Two Doctoral Researcher Positions in Intelligent Laser Precision Manufacturing</a></h3>
+<p class="meta"><b>University of Ljubljana</b><span>🇸🇮 Slovenia</span></p>
+<div class="offer-foot"><span class="due" data-deadline="2026-12-15"><svg class="icon"><use href="#i-clock"/></svg>Deadline <b>15 Dec 2026</b></span>
+<a class="btn sm outline" href="https://wa.me/?text=%2AMSCA%20Doctoral%20Network%20INTELLASE%20-%20Two%20Doctoral%20Researcher%20Positions%20in%20Intelligent%20Laser%20Precision%20Manufacturing%2A%0AUniversity%20of%20Ljubljana%0ASlovenia%0ADeadline%3A%2015%20Dec%202026%0Ahttps%3A%2F%2Feuraxess.ec.europa.eu%2Fjobs%2F476558" target="_blank" rel="noopener"><svg class="icon"><use href="#i-share"/></svg>WhatsApp</a>
+<a class="btn sm" href="https://euraxess.ec.europa.eu/jobs/476558" target="_blank" rel="noopener">View offer<svg class="icon"><use href="#i-arrow"/></svg></a>
+</div>
+</article>
+<p class="empty" id="none" hidden>No offer matches. Try another topic or a different search.</p>
+</div>
+</main>
+<footer>
+<div class="wrap">
+<span>Ensamien Parrainage. A student initiative, not an official school service. Offers come from EURAXESS, Nature Careers and jobs.ac.uk; always check the official offer for eligibility and the exact deadline.</span>
+<nav aria-label="Links"><a href="/">Home</a><a href="https://www.linkedin.com/company/ensamien-parrainage/" rel="noopener">LinkedIn</a><a href="https://vault.hclap.tech/">Vault</a><a href="https://flow.hclap.tech/">Flow</a></nav>
+<span class="feeds">Follow in a feed reader: <a href="phd-all.xml">All topics</a><a href="phd-robotics.xml">Robotics</a><a href="phd-electromechanical.xml">Electromechanical</a><a href="phd-electrical.xml">Electrical</a></span>
+</div>
+</footer>
+<script>
+(function(){
+  var list=document.getElementById("list"),cards=[].slice.call(list.querySelectorAll(".offer")),
+      chips=[].slice.call(document.querySelectorAll(".chip")),q=document.getElementById("q"),sort=document.getElementById("sort"),
+      count=document.getElementById("count"),none=document.getElementById("none"),topic="";
+  var today=new Date();today.setHours(0,0,0,0);
+  cards.forEach(function(c){
+    var d=c.querySelector(".due[data-deadline]");if(!d)return;
+    var left=Math.round((new Date(d.getAttribute("data-deadline")+"T00:00:00")-today)/864e5);
+    if(left>=0&&left<=14){d.className+=" soon";d.insertAdjacentText("beforeend",left===0?" · today":" · "+left+(left===1?" day left":" days left"));}
+  });
+  function apply(){
+    var words=q.value.trim().toLowerCase().split(/\s+/).filter(Boolean),shown=0;
+    cards.sort(function(a,b){return sort.value==="deadline"?a.dataset.deadline.localeCompare(b.dataset.deadline)
+      :b.dataset.seen.localeCompare(a.dataset.seen);}).forEach(function(c){
+      var ok=(!topic||(" "+c.dataset.topics+" ").indexOf(" "+topic+" ")>=0)&&words.every(function(w){return c.dataset.search.indexOf(w)>=0;});
+      c.hidden=!ok;if(ok)shown++;list.insertBefore(c,none);});
+    count.textContent=shown+(shown===1?" offer":" offers");none.hidden=shown>0;
+  }
+  chips.forEach(function(ch){ch.addEventListener("click",function(){topic=ch.dataset.topic;
+    chips.forEach(function(o){o.setAttribute("aria-pressed",o===ch?"true":"false");});apply();});});
+  q.addEventListener("input",apply);sort.addEventListener("change",apply);apply();
+})();
+</script>
+</body>
+</html>
