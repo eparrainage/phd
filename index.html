@@ -59,7 +59,16 @@ p{margin:0}
 .btn.sm .icon{width:16px;height:16px}
 .btn.icon-only{width:36px;padding:0}
 .brand-word{white-space:nowrap}
-@media(max-width:400px){.follow .lbl{display:none}.btn.follow{width:36px;padding:0}}
+.menu-btn{display:none}
+.menu{border-top:1px solid var(--border);background:#fff;box-shadow:0 12px 24px rgba(15,15,15,.08)}
+.menu a{display:flex;align-items:center;gap:12px;min-height:50px;padding:0 var(--gutter);border-bottom:1px solid var(--border);color:var(--foreground);font-weight:500;text-decoration:none}
+.menu a:last-child{border-bottom:0}
+.menu a[aria-current]{color:var(--primary);background:var(--primary-soft)}
+.menu a .icon{color:var(--muted-foreground)}
+.menu .menu-social{display:flex;gap:8px;padding:12px var(--gutter) 16px;border-top:1px solid var(--border)}
+.menu .menu-social a{flex:1;justify-content:center;min-height:44px;border:1px solid var(--border-strong);border-radius:var(--r-md);font-size:.92rem}
+@media(max-width:640px){.top .social{display:none}.menu-btn{display:inline-flex}}
+@media(min-width:641px){.menu{display:none!important}}
 .eyebrow{display:inline-flex;align-items:center;gap:6px;min-height:24px;padding:1px 9px;border-radius:var(--r-xs);background:var(--tag-purple);color:var(--tag-purple-ink);font-size:.8rem;font-weight:500}
 .tag{display:inline-flex;align-items:center;min-height:20px;padding:0 7px;border-radius:var(--r-xs);background:var(--tag-gray);color:var(--tag-gray-ink);font-size:.72rem;font-weight:500;white-space:nowrap}
 .tag.green{background:var(--tag-green);color:var(--tag-green-ink)}
@@ -121,6 +130,8 @@ footer .feeds a{text-decoration:underline;text-underline-offset:3px}
 <symbol id="i-in" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M8 10v7M8 7v.01M12 17v-4a2 2 0 0 1 4 0v4M12 10v7"/></symbol>
 <symbol id="i-school" viewBox="0 0 24 24"><path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c3 2 9 2 12 0v-5"/></symbol>
 <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+<symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></symbol>
+<symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></symbol>
 <symbol id="i-ig" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><path d="M17.5 6.5v.01"/></symbol>
 <symbol id="i-share" viewBox="0 0 24 24"><path d="M4 20l1.4-4.2A8 8 0 1 1 8.4 18.7z"/><path d="M9 10.5c.5 1.6 1.9 3 3.5 3.5"/></symbol>
 </svg>
@@ -128,9 +139,11 @@ footer .feeds a{text-decoration:underline;text-underline-offset:3px}
 <div class="wrap">
 <a class="brand" href="/" aria-label="Ensamien Parrainage home"><span class="brand-mark" aria-hidden="true">P</span><span class="brand-word">Ensamien Parrainage</span></a>
 <nav class="nav" aria-label="Opportunities"><a href="/phd/" aria-current="page">PhD positions</a><a href="/internships/">Internships</a><a href="/">Home</a></nav>
-<a class="btn sm outline icon-only" href="https://www.instagram.com/ensamienparrainage/" rel="noopener" aria-label="Instagram" data-goatcounter-click="instagram"><svg class="icon"><use href="#i-ig"/></svg></a>
-<a class="btn sm outline follow" href="https://www.linkedin.com/company/ensamien-parrainage/" rel="noopener" aria-label="Follow on LinkedIn" data-goatcounter-click="linkedin"><svg class="icon"><use href="#i-in"/></svg><span class="lbl">Follow</span></a>
+<a class="btn sm outline icon-only social" href="https://www.instagram.com/ensamienparrainage/" rel="noopener" aria-label="Instagram" data-goatcounter-click="instagram"><svg class="icon"><use href="#i-ig"/></svg></a>
+<a class="btn sm outline follow social" href="https://www.linkedin.com/company/ensamien-parrainage/" rel="noopener" aria-label="Follow on LinkedIn" data-goatcounter-click="linkedin"><svg class="icon"><use href="#i-in"/></svg><span class="lbl">Follow</span></a>
+<button class="btn sm outline icon-only menu-btn" type="button" aria-expanded="false" aria-controls="menu" aria-label="Menu"><svg class="icon"><use href="#i-menu"/></svg></button>
 </div>
+<nav class="menu" id="menu" aria-label="Menu" hidden><a href="/">Home</a><a href="/phd/" aria-current="page">PhD positions</a><a href="/internships/">Internships</a><div class="menu-social"><a href="https://www.instagram.com/ensamienparrainage/" rel="noopener" data-goatcounter-click="instagram"><svg class="icon"><use href="#i-ig"/></svg>Instagram</a><a href="https://www.linkedin.com/company/ensamien-parrainage/" rel="noopener" data-goatcounter-click="linkedin"><svg class="icon"><use href="#i-in"/></svg>LinkedIn</a></div></nav>
 </header>
 <main id="main">
 <div class="wrap">
@@ -687,6 +700,17 @@ footer .feeds a{text-decoration:underline;text-underline-offset:3px}
     chips.forEach(function(o){if(o.dataset.group===g)o.setAttribute("aria-pressed",o===ch?"true":"false");});apply();});});
   q.addEventListener("input",function(){limit=40;apply();});sort.addEventListener("change",apply);
   more.addEventListener("click",function(){limit+=40;apply();});apply();
+})();
+</script>
+<script>
+// Phone menu: the header shows only the logo and this button below 641px.
+(function(){
+  var b=document.querySelector(".menu-btn"),m=document.getElementById("menu");if(!b||!m)return;
+  function set(open){b.setAttribute("aria-expanded",open?"true":"false");m.hidden=!open;
+    b.querySelector("use").setAttribute("href",open?"#i-close":"#i-menu");}
+  b.addEventListener("click",function(){set(m.hidden);});
+  m.addEventListener("click",function(e){if(e.target.closest("a"))set(false);});
+  document.addEventListener("keydown",function(e){if(e.key==="Escape"&&!m.hidden){set(false);b.focus();}});
 })();
 </script>
 <script data-goatcounter="https://eparrainage.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
