@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: engineering, AI and computing</title>
   <id>urn:uuid:c13c8e4e-87af-5e7a-8dea-e68d91580eaa</id>
-  <updated>2026-11-01T00:00:00Z</updated>
+  <updated>2026-11-02T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Studentship: AI-Driven Condition Monitoring System for Offshore Wind Generators · University of East Anglia (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTM858/phd-studentship-ai-driven-condition-monitoring-system-for-offshore-wind-generators" rel="alternate" />
+    <id>urn:uuid:3797a0c8-4ab9-5109-af91-33ff7d2b8e5e</id>
+    <updated>2026-11-02T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of East Anglia · Norwich, GB · Deadline: 2027-02-24 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Machine Learning-Guided Engineering of Next-Generation Cancer Therapeutics · University of East Anglia (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTM835/phd-studentship-machine-learning-guided-engineering-of-next-generation-cancer-therapeutics" rel="alternate" />
+    <id>urn:uuid:6f6706c8-7466-5718-9498-c0344acd203f</id>
+    <updated>2026-11-02T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of East Anglia · Norwich, GB · Deadline: 2027-02-24 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Self-Supervised Learning for Sparse and Heterogeneous Spatio-Temporal Data · University of East Anglia (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTM832/phd-studentship-self-supervised-learning-for-sparse-and-heterogeneous-spatio-temporal-data" rel="alternate" />
+    <id>urn:uuid:6906bce8-78bd-52c0-b3e5-70dc8c822dde</id>
+    <updated>2026-11-02T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of East Anglia · Norwich, GB · Deadline: 2027-02-24 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Reliable and Generalisable Knowledge Editing in Large Language Models · University of East Anglia (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTM818/phd-studentship-reliable-and-generalisable-knowledge-editing-in-large-language-models" rel="alternate" />
+    <id>urn:uuid:0848fd1a-82dc-547c-8238-c99f6c5dec64</id>
+    <updated>2026-11-02T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of East Anglia · Norwich, GB · Deadline: 2027-02-24 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Operationalising Artificial Intelligence in Elite Sport Organisations: Readiness, Governance and Integration Pathways · Manchester Metropolitan University (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTL952/phd-studentship-operationalising-artificial-intelligence-in-elite-sport-organisations-readiness-governance-and-integration-pathways" rel="alternate" />
+    <id>urn:uuid:171f7e52-7963-55a0-a3f7-e601287ae3be</id>
+    <updated>2026-11-02T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Manchester Metropolitan University · Manchester, GB · Deadline: 2027-02-02 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Distributed Machine Learning over Mobile Networks · Cranfield University (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTL941/phd-studentship-distributed-machine-learning-over-mobile-networks" rel="alternate" />
+    <id>urn:uuid:8598d927-a92b-5cb7-a326-13013061c52f</id>
+    <updated>2026-11-02T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>Cranfield University · Cranfield, GB · Deadline: 2027-02-03 · Topics: Machine learning</summary>
+  </entry>
   <entry>
     <title>Up to 10 Research Assistants (PhD positions) (f/m/d) · Paderborn University (DE)</title>
     <link href="https://www.nature.com/naturecareers/job/12865980/up-to-10-research-assistants-phd-positions-f-m-d-/" rel="alternate" />

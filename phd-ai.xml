@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Artificial intelligence</title>
   <id>urn:uuid:0ba549f2-5dbb-5864-8d41-d2c85a37fc69</id>
-  <updated>2026-11-01T00:00:00Z</updated>
+  <updated>2026-11-02T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Studentship: AI-Driven Condition Monitoring System for Offshore Wind Generators · University of East Anglia (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTM858/phd-studentship-ai-driven-condition-monitoring-system-for-offshore-wind-generators" rel="alternate" />
+    <id>urn:uuid:3797a0c8-4ab9-5109-af91-33ff7d2b8e5e</id>
+    <updated>2026-11-02T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of East Anglia · Norwich, GB · Deadline: 2027-02-24 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Reliable and Generalisable Knowledge Editing in Large Language Models · University of East Anglia (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTM818/phd-studentship-reliable-and-generalisable-knowledge-editing-in-large-language-models" rel="alternate" />
+    <id>urn:uuid:0848fd1a-82dc-547c-8238-c99f6c5dec64</id>
+    <updated>2026-11-02T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of East Anglia · Norwich, GB · Deadline: 2027-02-24 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Operationalising Artificial Intelligence in Elite Sport Organisations: Readiness, Governance and Integration Pathways · Manchester Metropolitan University (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTL952/phd-studentship-operationalising-artificial-intelligence-in-elite-sport-organisations-readiness-governance-and-integration-pathways" rel="alternate" />
+    <id>urn:uuid:171f7e52-7963-55a0-a3f7-e601287ae3be</id>
+    <updated>2026-11-02T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Manchester Metropolitan University · Manchester, GB · Deadline: 2027-02-02 · Topics: Artificial intelligence</summary>
+  </entry>
   <entry>
     <title>PhD Position in Physical AI: Adaptive Foundation Models for Robotics · Aarhus University (AU) (DK)</title>
     <link href="https://www.nature.com/naturecareers/job/12864918/phd-position-in-physical-ai-adaptive-foundation-models-for-robotics/" rel="alternate" />

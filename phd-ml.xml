@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Machine learning</title>
   <id>urn:uuid:cc4b423c-96d2-52d2-8b55-db33093552e9</id>
-  <updated>2026-11-01T00:00:00Z</updated>
+  <updated>2026-11-02T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Studentship: Machine Learning-Guided Engineering of Next-Generation Cancer Therapeutics · University of East Anglia (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTM835/phd-studentship-machine-learning-guided-engineering-of-next-generation-cancer-therapeutics" rel="alternate" />
+    <id>urn:uuid:6f6706c8-7466-5718-9498-c0344acd203f</id>
+    <updated>2026-11-02T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of East Anglia · Norwich, GB · Deadline: 2027-02-24 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Self-Supervised Learning for Sparse and Heterogeneous Spatio-Temporal Data · University of East Anglia (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTM832/phd-studentship-self-supervised-learning-for-sparse-and-heterogeneous-spatio-temporal-data" rel="alternate" />
+    <id>urn:uuid:6906bce8-78bd-52c0-b3e5-70dc8c822dde</id>
+    <updated>2026-11-02T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of East Anglia · Norwich, GB · Deadline: 2027-02-24 · Topics: Machine learning</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: Distributed Machine Learning over Mobile Networks · Cranfield University (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTL941/phd-studentship-distributed-machine-learning-over-mobile-networks" rel="alternate" />
+    <id>urn:uuid:8598d927-a92b-5cb7-a326-13013061c52f</id>
+    <updated>2026-11-02T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>Cranfield University · Cranfield, GB · Deadline: 2027-02-03 · Topics: Machine learning</summary>
+  </entry>
   <entry>
     <title>The AITHYRA International PhD Program Call in AI for Biomedicine (all genders) · AITHYRA GmbH - Research Institute for Biomedical Artificial Intelligence of the Austrian Academy of Sciences (AT)</title>
     <link href="https://www.nature.com/naturecareers/job/12864324/the-aithyra-international-phd-program-call-in-ai-for-biomedicine-all-genders-/" rel="alternate" />
