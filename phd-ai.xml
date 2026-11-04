@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Artificial intelligence</title>
   <id>urn:uuid:0ba549f2-5dbb-5864-8d41-d2c85a37fc69</id>
-  <updated>2026-11-02T00:00:00Z</updated>
+  <updated>2026-11-04T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>Ph.D. student position in Software Engineering (Specification- and test-based oversight of AI coding agents) · Blekinge Institute of Technology (SE)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/477785" rel="alternate" />
+    <id>urn:uuid:bbc06947-bfd9-5c27-9173-de343e95c083</id>
+    <updated>2026-11-04T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Blekinge Institute of Technology · Sweden, SE · Deadline: 2026-12-15 · Topics: Artificial intelligence
+
+You will conduct research on the role of software testing in providing guardrails for AI coding agents. These agents generate and modify code with increasing autonomy. A key challenge is to ground the guardrails in requirements and stakeholder intent, which are clarified and communicated through...</summary>
+  </entry>
+  <entry>
+    <title>PhD Candidate in AI for Accelerated Concept and Tender-Phase Ship Design · Department of Ocean Operations and Civil Engineering (NO)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/477739" rel="alternate" />
+    <id>urn:uuid:a41cfd22-9af2-5a4f-92dd-7b8d99e639b3</id>
+    <updated>2026-11-04T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Department of Ocean Operations and Civil Engineering · Norway, NO · Deadline: 2026-11-22 · Topics: Artificial intelligence
+
+This is NTNUNTNU is a broad-based university with a technical-scientific profile and a focus in professional education. The university is located in three cities with headquarters in Trondheim.At NTNU, 8,6000 employees and 44,000 students work to create knowledge for a better world.You will find...</summary>
+  </entry>
   <entry>
     <title>PhD Studentship: AI-Driven Condition Monitoring System for Offshore Wind Generators · University of East Anglia (GB)</title>
     <link href="https://www.jobs.ac.uk/job/DTM858/phd-studentship-ai-driven-condition-monitoring-system-for-offshore-wind-generators" rel="alternate" />
