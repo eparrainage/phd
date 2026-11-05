@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Machine learning</title>
   <id>urn:uuid:cc4b423c-96d2-52d2-8b55-db33093552e9</id>
-  <updated>2026-11-02T00:00:00Z</updated>
+  <updated>2026-11-05T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Studentship in Aeronautics: Machine Learning-based Control of Reacting Flow Extreme Events (AE0092) · Imperial College London (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTO018/phd-studentship-in-aeronautics-machine-learning-based-control-of-reacting-flow-extreme-events-ae0092" rel="alternate" />
+    <id>urn:uuid:31461a85-2683-53f4-bc0b-9437aff60d7b</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>Imperial College London · London, GB · Deadline: 2027-01-04 · Topics: Machine learning</summary>
+  </entry>
   <entry>
     <title>PhD Studentship: Machine Learning-Guided Engineering of Next-Generation Cancer Therapeutics · University of East Anglia (GB)</title>
     <link href="https://www.jobs.ac.uk/job/DTM835/phd-studentship-machine-learning-guided-engineering-of-next-generation-cancer-therapeutics" rel="alternate" />

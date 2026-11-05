@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Robotics</title>
   <id>urn:uuid:bf0fb20d-4c43-531a-8c3f-fcc6c924a4ab</id>
-  <updated>2026-11-01T00:00:00Z</updated>
+  <updated>2026-11-05T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD in Physical AI for Adaptive Robot Manipulation · Aarhus University (AU) (DK)</title>
+    <link href="https://www.nature.com/naturecareers/job/12866450/phd-in-physical-ai-for-adaptive-robot-manipulation/" rel="alternate" />
+    <id>urn:uuid:5d524e78-e5bc-538d-92f6-1da369256653</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <published>2026-11-05T00:00:00Z</published>
+    <category term="robotics" label="Robotics" />
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Aarhus University (AU) · Aarhus, Midtjylland, DK · Deadline: not stated · Topics: Robotics, Artificial intelligence
+
+Competitive: The candidate will develop the machine-learning core of STORM</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: The Physics of Learning in Robotic Metamaterials · University of Birmingham (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTN744/phd-studentship-the-physics-of-learning-in-robotic-metamaterials" rel="alternate" />
+    <id>urn:uuid:286cb7af-0c44-520b-bde8-a08e3da7ed48</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <category term="robotics" label="Robotics" />
+    <summary>University of Birmingham · Birmingham, GB · Deadline: 2027-01-06 · Topics: Robotics</summary>
+  </entry>
   <entry>
     <title>PhD Position in Physical AI: Adaptive Foundation Models for Robotics · Aarhus University (AU) (DK)</title>
     <link href="https://www.nature.com/naturecareers/job/12864918/phd-position-in-physical-ai-adaptive-foundation-models-for-robotics/" rel="alternate" />

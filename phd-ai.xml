@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Artificial intelligence</title>
   <id>urn:uuid:0ba549f2-5dbb-5864-8d41-d2c85a37fc69</id>
-  <updated>2026-11-04T00:00:00Z</updated>
+  <updated>2026-11-05T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD in Physical AI for Adaptive Robot Manipulation · Aarhus University (AU) (DK)</title>
+    <link href="https://www.nature.com/naturecareers/job/12866450/phd-in-physical-ai-for-adaptive-robot-manipulation/" rel="alternate" />
+    <id>urn:uuid:5d524e78-e5bc-538d-92f6-1da369256653</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <published>2026-11-05T00:00:00Z</published>
+    <category term="robotics" label="Robotics" />
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Aarhus University (AU) · Aarhus, Midtjylland, DK · Deadline: not stated · Topics: Robotics, Artificial intelligence
+
+Competitive: The candidate will develop the machine-learning core of STORM</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: AI-Driven fault diagnosis for wind turbine generators · University of East Anglia (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTN740/phd-studentship-ai-driven-fault-diagnosis-for-wind-turbine-generators" rel="alternate" />
+    <id>urn:uuid:0e74b57a-10fb-599a-a4a9-8551a3fccd01</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of East Anglia · Norwich, GB · Deadline: 2026-11-30 · Topics: Artificial intelligence</summary>
+  </entry>
   <entry>
     <title>PhD Position in Artificial Intelligence for Biomedicine · Medical University Innsbruck (AT)</title>
     <link href="https://www.nature.com/naturecareers/job/12866425/phd-position-in-artificial-intelligence-for-biomedicine/" rel="alternate" />
