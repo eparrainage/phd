@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: engineering, AI and computing</title>
   <id>urn:uuid:c13c8e4e-87af-5e7a-8dea-e68d91580eaa</id>
-  <updated>2026-11-05T00:00:00Z</updated>
+  <updated>2026-11-06T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Position F/M PhD Position Computer Vision / Deep Learning: Video Generation · Inria (STARS) (FR)</title>
+    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10684" rel="alternate" />
+    <id>urn:uuid:7f38fb82-73ab-55c3-a393-89489dce36c3</id>
+    <updated>2026-11-06T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <category term="ml" label="Machine learning" />
+    <summary>Inria (STARS) · Sophia Antipolis, FR · Deadline: 2026-12-06 · Topics: Artificial intelligence, Machine learning</summary>
+  </entry>
   <entry>
     <title>PhD in Physical AI for Adaptive Robot Manipulation · Aarhus University (AU) (DK)</title>
     <link href="https://www.nature.com/naturecareers/job/12866450/phd-in-physical-ai-for-adaptive-robot-manipulation/" rel="alternate" />
@@ -562,16 +571,6 @@ What the grant offersUp to 4 yearsContract duration (includes optional 12-month 
     <summary>University of Ljubljana · Slovenia, SI · Deadline: 2026-12-15 · Topics: Electrical engineering
 
 The University of Ljubljana offers two full-time doctoral researcher positions, each with a planned employment duration of 36 months, within the Horizon Europe Marie Skłodowska-Curie Actions Doctoral Network INTELLASE (Intelligent Laser Precision Manufacturing https://cordis.europa.eu/project/id ...</summary>
-  </entry>
-  <entry>
-    <title>PhD Researcher (R1) - for the project „CITADEL - CITizenship And DEmocracy through policy Labs: Transitions for Participation, Trust and Fair Governance”, cod proiect 101289021 · Bucharest University of Economic Studies (RO)</title>
-    <link href="https://euraxess.ec.europa.eu/jobs/476519" rel="alternate" />
-    <id>urn:uuid:6d457034-5eaf-5d9b-b438-1639db39d271</id>
-    <updated>2026-11-01T00:00:00Z</updated>
-    <category term="cybersecurity" label="Cybersecurity" />
-    <summary>Bucharest University of Economic Studies · Romania, RO · Deadline: 2026-11-05 · Topics: Cybersecurity
-
-CITADEL - CITizenship And DEmocracy through policy Labs: Transitions for Participation, Trust and Fair Governanceaims to empower youth, educators, and policymakers to co‑create democratic solutions for urgent societal challenges like climate change, public health, and environmental transitions...</summary>
   </entry>
   <entry>
     <title>PhD Fellow in Trustworthy Generative AI with Knowledge Verification · OsloMet – Oslo Metropolitan University (NO)</title>

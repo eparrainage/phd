@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Artificial intelligence</title>
   <id>urn:uuid:0ba549f2-5dbb-5864-8d41-d2c85a37fc69</id>
-  <updated>2026-11-05T00:00:00Z</updated>
+  <updated>2026-11-06T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Position F/M PhD Position Computer Vision / Deep Learning: Video Generation · Inria (STARS) (FR)</title>
+    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10684" rel="alternate" />
+    <id>urn:uuid:7f38fb82-73ab-55c3-a393-89489dce36c3</id>
+    <updated>2026-11-06T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <category term="ml" label="Machine learning" />
+    <summary>Inria (STARS) · Sophia Antipolis, FR · Deadline: 2026-12-06 · Topics: Artificial intelligence, Machine learning</summary>
+  </entry>
   <entry>
     <title>PhD in Physical AI for Adaptive Robot Manipulation · Aarhus University (AU) (DK)</title>
     <link href="https://www.nature.com/naturecareers/job/12866450/phd-in-physical-ai-for-adaptive-robot-manipulation/" rel="alternate" />

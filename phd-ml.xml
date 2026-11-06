@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Machine learning</title>
   <id>urn:uuid:cc4b423c-96d2-52d2-8b55-db33093552e9</id>
-  <updated>2026-11-05T00:00:00Z</updated>
+  <updated>2026-11-06T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Position F/M PhD Position Computer Vision / Deep Learning: Video Generation · Inria (STARS) (FR)</title>
+    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10684" rel="alternate" />
+    <id>urn:uuid:7f38fb82-73ab-55c3-a393-89489dce36c3</id>
+    <updated>2026-11-06T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <category term="ml" label="Machine learning" />
+    <summary>Inria (STARS) · Sophia Antipolis, FR · Deadline: 2026-12-06 · Topics: Artificial intelligence, Machine learning</summary>
+  </entry>
   <entry>
     <title>PhD Studentship in Aeronautics: Machine Learning-based Control of Reacting Flow Extreme Events (AE0092) · Imperial College London (GB)</title>
     <link href="https://www.jobs.ac.uk/job/DTO018/phd-studentship-in-aeronautics-machine-learning-based-control-of-reacting-flow-extreme-events-ae0092" rel="alternate" />
