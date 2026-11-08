@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Robotics</title>
   <id>urn:uuid:bf0fb20d-4c43-531a-8c3f-fcc6c924a4ab</id>
-  <updated>2026-11-05T00:00:00Z</updated>
+  <updated>2026-11-08T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD on worker-augmenting technology implementation · TU/e (NL)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/478773" rel="alternate" />
+    <id>urn:uuid:a51123ab-c8ff-530f-a86d-27f8a8e0a82b</id>
+    <updated>2026-11-08T00:00:00Z</updated>
+    <category term="robotics" label="Robotics" />
+    <category term="ai" label="Artificial intelligence" />
+    <summary>TU/e · Netherlands, NL · Deadline: 2026-12-07 · Topics: Robotics, Artificial intelligence
+
+Are you eager to study how workers can shape the AI and robotic systems they use, so that technology helps them to improve their quality of working life and their performance? We are looking for a PhD candidate to become part of a multidisciplinary research programme on digital technology and work...</summary>
+  </entry>
   <entry>
     <title>PhD in Physical AI for Adaptive Robot Manipulation · Aarhus University (AU) (DK)</title>
     <link href="https://www.nature.com/naturecareers/job/12866450/phd-in-physical-ai-for-adaptive-robot-manipulation/" rel="alternate" />
