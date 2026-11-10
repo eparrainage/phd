@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: engineering, AI and computing</title>
   <id>urn:uuid:c13c8e4e-87af-5e7a-8dea-e68d91580eaa</id>
-  <updated>2026-11-09T00:00:00Z</updated>
+  <updated>2026-11-10T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>FSE PhD President's Doctoral Scholarship: Novel electronics for sensing electrical-cellular interactions · The University of Manchester (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTP449/fse-phd-presidents-doctoral-scholarship-novel-electronics-for-sensing-electrical-cellular-interactions" rel="alternate" />
+    <id>urn:uuid:8e0f151f-2ec2-5be1-bc53-8be85173506e</id>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="electrical" label="Electrical engineering" />
+    <summary>The University of Manchester · Manchester, GB · Deadline: 2026-12-18 · Topics: Electrical engineering</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship in Soft Robotics and Embodied Intelligence · University of Reading (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTP262/phd-studentship-in-soft-robotics-and-embodied-intelligence" rel="alternate" />
+    <id>urn:uuid:db813581-3a36-56cc-a75c-66f6ebac9850</id>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="robotics" label="Robotics" />
+    <summary>University of Reading · Reading, GB · Deadline: 2027-01-15 · Topics: Robotics</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: 3.5 Year PhD Studentship in Artificial Intelligence for Eliciting Patient Histories · UCL (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTO349/phd-studentship-35-year-phd-studentship-in-artificial-intelligence-for-eliciting-patient-histories" rel="alternate" />
+    <id>urn:uuid:85616460-f1a4-587f-804f-16653f8af32c</id>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>UCL · London, GB · Deadline: 2026-12-21 · Topics: Artificial intelligence</summary>
+  </entry>
   <entry>
     <title>PhD Studentship: Studying the Langlands program via formalisation and AI · University of East Anglia (GB)</title>
     <link href="https://www.jobs.ac.uk/job/DTP041/phd-studentship-studying-the-langlands-program-via-formalisation-and-ai" rel="alternate" />

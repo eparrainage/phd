@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Electrical engineering</title>
   <id>urn:uuid:f77c2582-b187-546d-b4bf-19071aa0493e</id>
-  <updated>2026-11-09T00:00:00Z</updated>
+  <updated>2026-11-10T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>FSE PhD President's Doctoral Scholarship: Novel electronics for sensing electrical-cellular interactions · The University of Manchester (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTP449/fse-phd-presidents-doctoral-scholarship-novel-electronics-for-sensing-electrical-cellular-interactions" rel="alternate" />
+    <id>urn:uuid:8e0f151f-2ec2-5be1-bc53-8be85173506e</id>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="electrical" label="Electrical engineering" />
+    <summary>The University of Manchester · Manchester, GB · Deadline: 2026-12-18 · Topics: Electrical engineering</summary>
+  </entry>
   <entry>
     <title>PhD Studentship: : High-Fidelity Electromagnetic-Thermal Modelling of Litz Windings for Next-Generation Cryogenic Machines · The University of Manchester (GB)</title>
     <link href="https://www.jobs.ac.uk/job/DTO950/phd-studentship-high-fidelity-electromagnetic-thermal-modelling-of-litz-windings-for-next-generation-cryogenic-machines" rel="alternate" />

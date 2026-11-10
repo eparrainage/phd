@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Robotics</title>
   <id>urn:uuid:bf0fb20d-4c43-531a-8c3f-fcc6c924a4ab</id>
-  <updated>2026-11-08T00:00:00Z</updated>
+  <updated>2026-11-10T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Studentship in Soft Robotics and Embodied Intelligence · University of Reading (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTP262/phd-studentship-in-soft-robotics-and-embodied-intelligence" rel="alternate" />
+    <id>urn:uuid:db813581-3a36-56cc-a75c-66f6ebac9850</id>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="robotics" label="Robotics" />
+    <summary>University of Reading · Reading, GB · Deadline: 2027-01-15 · Topics: Robotics</summary>
+  </entry>
   <entry>
     <title>PhD on worker-augmenting technology implementation · TU/e (NL)</title>
     <link href="https://euraxess.ec.europa.eu/jobs/478773" rel="alternate" />
