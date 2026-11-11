@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Artificial intelligence</title>
   <id>urn:uuid:0ba549f2-5dbb-5864-8d41-d2c85a37fc69</id>
-  <updated>2026-11-10T00:00:00Z</updated>
+  <updated>2026-11-11T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Studentship: CENTA 2027-B12 AI-Enabled Prediction of UK Pollen Season Magnitude for Next-Generation Forecasting · University of Birmingham (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTP800/phd-studentship-centa-2027-b12-ai-enabled-prediction-of-uk-pollen-season-magnitude-for-next-generation-forecasting" rel="alternate" />
+    <id>urn:uuid:c42b28ba-1eff-51ba-8de1-9f8af4a6b865</id>
+    <updated>2026-11-11T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of Birmingham · Birmingham, GB · Deadline: 2027-01-06 · Topics: Artificial intelligence</summary>
+  </entry>
+  <entry>
+    <title>PhD Studentship: CENTA 2027-B07 Biodiversity Digital Twin: Leveraging Environmental DNA and Artificial Intelligence for Monitoring Biodiversity Loss · University of Birmingham (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTP793/phd-studentship-centa-2027-b07-biodiversity-digital-twin-leveraging-environmental-dna-and-artificial-intelligence-for-monitoring-biodiversity-loss" rel="alternate" />
+    <id>urn:uuid:12027b5e-f913-5de3-b8d2-3b88c3d2a419</id>
+    <updated>2026-11-11T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>University of Birmingham · Birmingham, GB · Deadline: 2027-01-06 · Topics: Artificial intelligence</summary>
+  </entry>
   <entry>
     <title>PhD Studentship: 3.5 Year PhD Studentship in Artificial Intelligence for Eliciting Patient Histories · UCL (GB)</title>
     <link href="https://www.jobs.ac.uk/job/DTO349/phd-studentship-35-year-phd-studentship-in-artificial-intelligence-for-eliciting-patient-histories" rel="alternate" />
