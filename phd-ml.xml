@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Machine learning</title>
   <id>urn:uuid:cc4b423c-96d2-52d2-8b55-db33093552e9</id>
-  <updated>2026-11-06T00:00:00Z</updated>
+  <updated>2026-11-12T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Studentship: Using next generation ocean observations and machine learning to transform mixed layer depth predictions · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTQ170/phd-studentship-using-next-generation-ocean-observations-and-machine-learning-to-transform-mixed-layer-depth-predictions" rel="alternate" />
+    <id>urn:uuid:9e59b40e-5df7-5c04-8041-4a42b62efdda</id>
+    <updated>2026-11-12T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Exeter · Devon, Exeter, GB · Deadline: 2027-01-07 · Topics: Machine learning</summary>
+  </entry>
   <entry>
     <title>PhD Position F/M PhD Position Computer Vision / Deep Learning: Video Generation · Inria (STARS) (FR)</title>
     <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10684" rel="alternate" />

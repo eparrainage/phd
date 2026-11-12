@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: engineering, AI and computing</title>
   <id>urn:uuid:c13c8e4e-87af-5e7a-8dea-e68d91580eaa</id>
-  <updated>2026-11-11T00:00:00Z</updated>
+  <updated>2026-11-12T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Studentship: Using next generation ocean observations and machine learning to transform mixed layer depth predictions · University of Exeter (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTQ170/phd-studentship-using-next-generation-ocean-observations-and-machine-learning-to-transform-mixed-layer-depth-predictions" rel="alternate" />
+    <id>urn:uuid:9e59b40e-5df7-5c04-8041-4a42b62efdda</id>
+    <updated>2026-11-12T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Exeter · Devon, Exeter, GB · Deadline: 2027-01-07 · Topics: Machine learning</summary>
+  </entry>
   <entry>
     <title>PhD Studentship: CENTA 2027-B12 AI-Enabled Prediction of UK Pollen Season Magnitude for Next-Generation Forecasting · University of Birmingham (GB)</title>
     <link href="https://www.jobs.ac.uk/job/DTP800/phd-studentship-centa-2027-b12-ai-enabled-prediction-of-uk-pollen-season-magnitude-for-next-generation-forecasting" rel="alternate" />
@@ -729,16 +737,6 @@ How can AI agents build on existing software instead of reinventing it? Join thi
     <summary>Techniques de l'Informatique et de la Microélectronique pour l'Architecture des systèmes intégrés · France, FR · Deadline: 2026-11-13 · Topics: Cybersecurity
 
 TIMA laboratory is a public research laboratory under the joint supervision of CNRS, Grenoble INP, and Université Grenoble Alpes (UGA). It is located in Grenoble, on the Viallet campus of Grenoble INP-UGA (46 avenue Félix Viallet). TIMA is a multicultural team of approximately 150 people, including...</summary>
-  </entry>
-  <entry>
-    <title>PhD Candidate (M/F) - Natural Language Processing - Using Large Language Models for scientific writing · Laboratoire lorrain de recherche en informatique et ses applications (FR)</title>
-    <link href="https://euraxess.ec.europa.eu/jobs/474689" rel="alternate" />
-    <id>urn:uuid:ccd17f51-91a7-518e-bfaf-13ca8174c843</id>
-    <updated>2026-11-01T00:00:00Z</updated>
-    <category term="ai" label="Artificial intelligence" />
-    <summary>Laboratoire lorrain de recherche en informatique et ses applications · France, FR · Deadline: 2026-11-11 · Topics: Artificial intelligence
-
-Loria is the French acronym for the “Lorraine Research Laboratory in Computer Science and its Applications” and is a research unit (UMR 7503), common to CNRS, the University of Lorraine, CentraleSupélec and Inria. This unit was officially created in 1997. The successful candidate will be offered a...</summary>
   </entry>
   <entry>
     <title>2026-2445582-Post PHD position- REVGEOIA project-Development of an Artificial Intelligence algorithm for the optimization of geopolymer coating formulation · IRCER (FR)</title>
