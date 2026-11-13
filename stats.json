@@ -1,7 +1,7 @@
 {
  "page": "phd",
- "count": 89,
- "new": 9,
+ "count": 90,
+ "new": 10,
  "updated": "2026-11-13",
  "by": {
   "topic": {
@@ -9,7 +9,7 @@
    "electromechanical": 1,
    "electrical": 19,
    "ai": 49,
-   "ml": 17,
+   "ml": 18,
    "cybersecurity": 2,
    "cloud": 2
   }
