@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: engineering, AI and computing</title>
   <id>urn:uuid:c13c8e4e-87af-5e7a-8dea-e68d91580eaa</id>
-  <updated>2026-11-13T00:00:00Z</updated>
+  <updated>2026-11-14T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Position Improving Symbolic AI through Learning and Reasoning · TU Delft (NL)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/480466" rel="alternate" />
+    <id>urn:uuid:7cda5973-fd5f-5723-8e0f-eee0e71407d5</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <category term="cybersecurity" label="Cybersecurity" />
+    <summary>TU Delft · Netherlands, NL · Deadline: 2026-11-27 · Topics: Artificial intelligence, Cybersecurity
+
+Join TU Delft in developing AI that thinks like a scientist Job descriptionWhile all the headlines are full of AI learning from massivve datasets, in this position you will investigate how can we teach machines to learn from tiny amounts of data. You will investigate how how can we achieve this goal...</summary>
+  </entry>
+  <entry>
+    <title>PhD Student in Robotics and Artificial Intelligence · Luleå tekniska univeristet (SE)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/480464" rel="alternate" />
+    <id>urn:uuid:c140c12e-65cc-57de-bd3a-59936c004184</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <category term="robotics" label="Robotics" />
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Luleå tekniska univeristet · Sweden, SE · Deadline: 2026-12-07 · Topics: Robotics, Artificial intelligence
+
+Are you ready to take the next step in your academic journey? As a doctoral student with us, you will work closely with leading researchers in a strong, international research environment, with access to advanced laboratory equipment and solid funding opportunities. You will be offered secure...</summary>
+  </entry>
   <entry>
     <title>PhD Studentship: Learning the kinetic rules of DNA amplification through high-throughput EXPAR and machine learning · University of Birmingham (GB)</title>
     <link href="https://www.jobs.ac.uk/job/DTQ577/phd-studentship-learning-the-kinetic-rules-of-dna-amplification-through-high-throughput-expar-and-machine-learning" rel="alternate" />
@@ -648,22 +670,6 @@ Minimum gross monthly salary of EUR 2.832,10 paid 14 times a year: Join AITHYRA 
     <summary>Inria (PIRAT) · Rennes, FR · Deadline: 2026-12-15 · Topics: Artificial intelligence, Cybersecurity</summary>
   </entry>
   <entry>
-    <title>Doctorant F/H Doctorant(e) en intelligence artificielle scientifique et modélisation spatio-temporelle de la biodiversité · Inria (IROKO) (FR)</title>
-    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10608" rel="alternate" />
-    <id>urn:uuid:0760f764-44da-5f9e-a6a6-6d05093dcb75</id>
-    <updated>2026-11-01T00:00:00Z</updated>
-    <category term="ai" label="Artificial intelligence" />
-    <summary>Inria (IROKO) · Montpellier, FR · Deadline: 2026-11-13 · Topics: Artificial intelligence</summary>
-  </entry>
-  <entry>
-    <title>Doctorant F/H Résistance à la désinformation dans les collectifs hybrides humains–IA · Inria (MARIANNE) (FR)</title>
-    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10599" rel="alternate" />
-    <id>urn:uuid:19897789-b661-5df9-a1fe-3404ae5c198b</id>
-    <updated>2026-11-01T00:00:00Z</updated>
-    <category term="ai" label="Artificial intelligence" />
-    <summary>Inria (MARIANNE) · Sophia Antipolis, FR · Deadline: 2026-11-13 · Topics: Artificial intelligence</summary>
-  </entry>
-  <entry>
     <title>PhD Position F/M Enforcing Persistence in Generative World Models for Robotics · Inria (ASTRA) (FR)</title>
     <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10570" rel="alternate" />
     <id>urn:uuid:bbc8fb15-f155-527f-b322-b2610977e454</id>
@@ -751,16 +757,6 @@ Are you passionate about shaping next-generation mobile networks? If so, please 
     <summary>TU Delft · Netherlands, NL · Deadline: 2026-12-01 · Topics: Artificial intelligence
 
 How can AI agents build on existing software instead of reinventing it? Join this collaboration between TU Delft and ING to research more reliable agentic software development.Job descriptionSoftware intensive organizations rely on increasingly large and complex software ecosystems consisting of...</summary>
-  </entry>
-  <entry>
-    <title>PHD Improving Side-Channel Reverse Engineering M/F · Techniques de l'Informatique et de la Microélectronique pour l'Architecture des systèmes intégrés (FR)</title>
-    <link href="https://euraxess.ec.europa.eu/jobs/475287" rel="alternate" />
-    <id>urn:uuid:c0b39d97-7fb0-5b9b-b4a5-044f520c25e0</id>
-    <updated>2026-11-01T00:00:00Z</updated>
-    <category term="cybersecurity" label="Cybersecurity" />
-    <summary>Techniques de l'Informatique et de la Microélectronique pour l'Architecture des systèmes intégrés · France, FR · Deadline: 2026-11-13 · Topics: Cybersecurity
-
-TIMA laboratory is a public research laboratory under the joint supervision of CNRS, Grenoble INP, and Université Grenoble Alpes (UGA). It is located in Grenoble, on the Viallet campus of Grenoble INP-UGA (46 avenue Félix Viallet). TIMA is a multicultural team of approximately 150 people, including...</summary>
   </entry>
   <entry>
     <title>2026-2445582-Post PHD position- REVGEOIA project-Development of an Artificial Intelligence algorithm for the optimization of geopolymer coating formulation · IRCER (FR)</title>

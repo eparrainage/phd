@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Robotics</title>
   <id>urn:uuid:bf0fb20d-4c43-531a-8c3f-fcc6c924a4ab</id>
-  <updated>2026-11-10T00:00:00Z</updated>
+  <updated>2026-11-14T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Student in Robotics and Artificial Intelligence · Luleå tekniska univeristet (SE)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/480464" rel="alternate" />
+    <id>urn:uuid:c140c12e-65cc-57de-bd3a-59936c004184</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <category term="robotics" label="Robotics" />
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Luleå tekniska univeristet · Sweden, SE · Deadline: 2026-12-07 · Topics: Robotics, Artificial intelligence
+
+Are you ready to take the next step in your academic journey? As a doctoral student with us, you will work closely with leading researchers in a strong, international research environment, with access to advanced laboratory equipment and solid funding opportunities. You will be offered secure...</summary>
+  </entry>
   <entry>
     <title>PhD Studentship in Soft Robotics and Embodied Intelligence · University of Reading (GB)</title>
     <link href="https://www.jobs.ac.uk/job/DTP262/phd-studentship-in-soft-robotics-and-embodied-intelligence" rel="alternate" />

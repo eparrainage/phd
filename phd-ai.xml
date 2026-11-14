@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Artificial intelligence</title>
   <id>urn:uuid:0ba549f2-5dbb-5864-8d41-d2c85a37fc69</id>
-  <updated>2026-11-11T00:00:00Z</updated>
+  <updated>2026-11-14T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Position Improving Symbolic AI through Learning and Reasoning · TU Delft (NL)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/480466" rel="alternate" />
+    <id>urn:uuid:7cda5973-fd5f-5723-8e0f-eee0e71407d5</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <category term="cybersecurity" label="Cybersecurity" />
+    <summary>TU Delft · Netherlands, NL · Deadline: 2026-11-27 · Topics: Artificial intelligence, Cybersecurity
+
+Join TU Delft in developing AI that thinks like a scientist Job descriptionWhile all the headlines are full of AI learning from massivve datasets, in this position you will investigate how can we teach machines to learn from tiny amounts of data. You will investigate how how can we achieve this goal...</summary>
+  </entry>
+  <entry>
+    <title>PhD Student in Robotics and Artificial Intelligence · Luleå tekniska univeristet (SE)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/480464" rel="alternate" />
+    <id>urn:uuid:c140c12e-65cc-57de-bd3a-59936c004184</id>
+    <updated>2026-11-14T00:00:00Z</updated>
+    <category term="robotics" label="Robotics" />
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Luleå tekniska univeristet · Sweden, SE · Deadline: 2026-12-07 · Topics: Robotics, Artificial intelligence
+
+Are you ready to take the next step in your academic journey? As a doctoral student with us, you will work closely with leading researchers in a strong, international research environment, with access to advanced laboratory equipment and solid funding opportunities. You will be offered secure...</summary>
+  </entry>
   <entry>
     <title>PhD Studentship: CENTA 2027-B12 AI-Enabled Prediction of UK Pollen Season Magnitude for Next-Generation Forecasting · University of Birmingham (GB)</title>
     <link href="https://www.jobs.ac.uk/job/DTP800/phd-studentship-centa-2027-b12-ai-enabled-prediction-of-uk-pollen-season-magnitude-for-next-generation-forecasting" rel="alternate" />
@@ -361,22 +383,6 @@ Minimum gross monthly salary of EUR 2.832,10 paid 14 times a year: Join AITHYRA 
     <category term="ai" label="Artificial intelligence" />
     <category term="cybersecurity" label="Cybersecurity" />
     <summary>Inria (PIRAT) · Rennes, FR · Deadline: 2026-12-15 · Topics: Artificial intelligence, Cybersecurity</summary>
-  </entry>
-  <entry>
-    <title>Doctorant F/H Doctorant(e) en intelligence artificielle scientifique et modélisation spatio-temporelle de la biodiversité · Inria (IROKO) (FR)</title>
-    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10608" rel="alternate" />
-    <id>urn:uuid:0760f764-44da-5f9e-a6a6-6d05093dcb75</id>
-    <updated>2026-11-01T00:00:00Z</updated>
-    <category term="ai" label="Artificial intelligence" />
-    <summary>Inria (IROKO) · Montpellier, FR · Deadline: 2026-11-13 · Topics: Artificial intelligence</summary>
-  </entry>
-  <entry>
-    <title>Doctorant F/H Résistance à la désinformation dans les collectifs hybrides humains–IA · Inria (MARIANNE) (FR)</title>
-    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10599" rel="alternate" />
-    <id>urn:uuid:19897789-b661-5df9-a1fe-3404ae5c198b</id>
-    <updated>2026-11-01T00:00:00Z</updated>
-    <category term="ai" label="Artificial intelligence" />
-    <summary>Inria (MARIANNE) · Sophia Antipolis, FR · Deadline: 2026-11-13 · Topics: Artificial intelligence</summary>
   </entry>
   <entry>
     <title>Urgent PhD Position - Battery Interface design using AI-driven modelling and multiscle simulations. · Vrije Universiteit Brussel (BE)</title>
