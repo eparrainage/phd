@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Robotics</title>
   <id>urn:uuid:bf0fb20d-4c43-531a-8c3f-fcc6c924a4ab</id>
-  <updated>2026-11-14T00:00:00Z</updated>
+  <updated>2026-11-15T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD researcher - Dynamic Safety Assurance for Autonomous Outdoor Operation · KU LEUVEN (BE)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/480572" rel="alternate" />
+    <id>urn:uuid:ca947d83-1d1f-5989-8594-e2f3050ba0fd</id>
+    <updated>2026-11-15T00:00:00Z</updated>
+    <category term="robotics" label="Robotics" />
+    <category term="electrical" label="Electrical engineering" />
+    <summary>KU LEUVEN · Belgium, BE · Deadline: 2026-12-31 · Topics: Robotics, Electrical engineering
+
+Passionate about autonomous systems and safety engineering? Join the COSAIN project as a Junior Researcher and help shape next-generation runtime safety assurance for autonomous outdoor operations.</summary>
+  </entry>
   <entry>
     <title>PhD Student in Robotics and Artificial Intelligence · Luleå tekniska univeristet (SE)</title>
     <link href="https://euraxess.ec.europa.eu/jobs/480464" rel="alternate" />

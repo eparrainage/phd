@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Electrical engineering</title>
   <id>urn:uuid:f77c2582-b187-546d-b4bf-19071aa0493e</id>
-  <updated>2026-11-10T00:00:00Z</updated>
+  <updated>2026-11-15T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Position in Large-Signal Modelling and Transient Stability Analysis of Wind Turbine Generators under Grid Fault Conditions · Aalborg Universitet (DK)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/480574" rel="alternate" />
+    <id>urn:uuid:d18f0414-f10a-54fa-8894-d71cce3520c4</id>
+    <updated>2026-11-15T00:00:00Z</updated>
+    <category term="electrical" label="Electrical engineering" />
+    <summary>Aalborg Universitet · Denmark, DK · Deadline: 2026-12-11 · Topics: Electrical engineering
+
+The WindConnect (wind farm control and integration in sector-coupled power systems https://cordis.europa.eu/project/id/101227683 ) consortium unites leading experts from academia and industry across Europe, leveraging expertise in wind energy, power systems, power electronics, control engineering...</summary>
+  </entry>
+  <entry>
+    <title>PhD researcher - Dynamic Safety Assurance for Autonomous Outdoor Operation · KU LEUVEN (BE)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/480572" rel="alternate" />
+    <id>urn:uuid:ca947d83-1d1f-5989-8594-e2f3050ba0fd</id>
+    <updated>2026-11-15T00:00:00Z</updated>
+    <category term="robotics" label="Robotics" />
+    <category term="electrical" label="Electrical engineering" />
+    <summary>KU LEUVEN · Belgium, BE · Deadline: 2026-12-31 · Topics: Robotics, Electrical engineering
+
+Passionate about autonomous systems and safety engineering? Join the COSAIN project as a Junior Researcher and help shape next-generation runtime safety assurance for autonomous outdoor operations.</summary>
+  </entry>
   <entry>
     <title>FSE PhD President's Doctoral Scholarship: Business Model Innovation and Strategic Coordination in Circular Critical Material Value Chains: An Evolutionary and Agent-Based Modelling of Electric Vehicle Batteries · The University of Manchester (GB)</title>
     <link href="https://www.jobs.ac.uk/job/DTP467/fse-phd-presidents-doctoral-scholarship-business-model-innovation-and-strategic-coordination-in-circular-critical-material-value-chains-an-evolutionary-and-agent-based-modelling-of-electric-vehicle-batteries" rel="alternate" />
