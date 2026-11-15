@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Artificial intelligence</title>
   <id>urn:uuid:0ba549f2-5dbb-5864-8d41-d2c85a37fc69</id>
-  <updated>2026-11-14T00:00:00Z</updated>
+  <updated>2026-11-15T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD opportunity in Montréal — Human-Guided Evaluation of Generative AI Systems · Mila - Quebec AI Institute (FR)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/477205" rel="alternate" />
+    <id>urn:uuid:1f6d4640-e178-52b6-aab6-e819046f7d14</id>
+    <updated>2026-11-15T00:00:00Z</updated>
+    <category term="ai" label="Artificial intelligence" />
+    <summary>Mila - Quebec AI Institute · France, FR · Deadline: 2026-12-02 · Topics: Artificial intelligence
+
+📣 PhD opportunity in Montréal — Human-Guided Evaluation of Generative AI SystemsHow can we evaluate AI systems in realistic situations—and decide which tests or expert judgments will provide the most valuable evidence about their risks?Together with Jackie Cheung, I am seeking a PhD candidate within...</summary>
+  </entry>
   <entry>
     <title>PhD Position Improving Symbolic AI through Learning and Reasoning · TU Delft (NL)</title>
     <link href="https://euraxess.ec.europa.eu/jobs/480466" rel="alternate" />
