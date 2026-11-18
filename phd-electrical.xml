@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Electrical engineering</title>
   <id>urn:uuid:f77c2582-b187-546d-b4bf-19071aa0493e</id>
-  <updated>2026-11-15T00:00:00Z</updated>
+  <updated>2026-11-18T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD scholarship in Thermal Management of Electric Vehicle Batteries and Charging Systems ....... · Technical University of Denmark (DTU) (DK)</title>
+    <link href="https://www.nature.com/naturecareers/job/12866893/phd-scholarship-in-thermal-management-of-electric-vehicle-batteries-and-charging-systems-/" rel="alternate" />
+    <id>urn:uuid:0bfcab7e-fe62-59e8-83b4-475d387c8271</id>
+    <updated>2026-11-18T00:00:00Z</updated>
+    <published>2026-11-18T00:00:00Z</published>
+    <category term="electrical" label="Electrical engineering" />
+    <summary>Technical University of Denmark (DTU) · Copenhagen, Hovedstaden, DK · Deadline: not stated · Topics: Electrical engineering
+
+Competitive: If you are establishing your career as a scientist and are looking for the best possible foundation for fulfilling your ambitions, this is your opportunity.</summary>
+  </entry>
+  <entry>
+    <title>Marie Skłodowska-Curie Doctoral Network Researcher ENG04111 · Imperial College London (GB)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/481323" rel="alternate" />
+    <id>urn:uuid:a6798eb4-ab27-5d6a-9137-d3b3bf64a7ca</id>
+    <updated>2026-11-18T00:00:00Z</updated>
+    <category term="electrical" label="Electrical engineering" />
+    <category term="ai" label="Artificial intelligence" />
+    <category term="cybersecurity" label="Cybersecurity" />
+    <summary>Imperial College London · United Kingdom, GB · Deadline: 2027-01-03 · Topics: Electrical engineering, Artificial intelligence, Cybersecurity
+
+About the roleApplicants are invited to apply for one Marie Skłodowska-Curie Doctoral Network Researcher position funded by Horizon Europe Marie Currie Doctoral Network grant of the Commission of European Council to develop novel AI/ML method for optimal data-driven vulnerability mapping for power...</summary>
+  </entry>
   <entry>
     <title>PhD Position in Large-Signal Modelling and Transient Stability Analysis of Wind Turbine Generators under Grid Fault Conditions · Aalborg Universitet (DK)</title>
     <link href="https://euraxess.ec.europa.eu/jobs/480574" rel="alternate" />
