@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Machine learning</title>
   <id>urn:uuid:cc4b423c-96d2-52d2-8b55-db33093552e9</id>
-  <updated>2026-11-15T00:00:00Z</updated>
+  <updated>2026-11-20T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Studentship: Machine Learning and Uncertainty Quantification for Complex Scientific Systems · University of Birmingham (GB)</title>
+    <link href="https://www.jobs.ac.uk/job/DTS643/phd-studentship-machine-learning-and-uncertainty-quantification-for-complex-scientific-systems" rel="alternate" />
+    <id>urn:uuid:2806705b-454c-5ba5-8659-fd2baa110cb7</id>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <category term="ml" label="Machine learning" />
+    <summary>University of Birmingham · Birmingham, GB · Deadline: 2027-02-18 · Topics: Machine learning</summary>
+  </entry>
   <entry>
     <title>PhD Position F/M Theory for Discrete Diffusion Models · Inria (FR)</title>
     <link href="https://euraxess.ec.europa.eu/jobs/477223" rel="alternate" />
