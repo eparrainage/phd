@@ -1,13 +1,13 @@
 {
  "page": "phd",
- "count": 84,
+ "count": 83,
  "new": 0,
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "by": {
   "topic": {
    "robotics": 12,
    "electromechanical": 1,
-   "electrical": 24,
+   "electrical": 23,
    "ai": 41,
    "ml": 17,
    "cybersecurity": 3,
