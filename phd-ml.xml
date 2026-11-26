@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Machine learning</title>
   <id>urn:uuid:cc4b423c-96d2-52d2-8b55-db33093552e9</id>
-  <updated>2026-11-20T00:00:00Z</updated>
+  <updated>2026-11-26T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Position: Machine Learning and Bayesian Inference for Fracture Network Models ·  (CZ)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/phd-position-machine-learning-and-bayesian-inference-fracture-network-models" rel="alternate" />
+    <id>urn:uuid:b4b7f21e-819c-5dfc-89fd-3c3bef82af03</id>
+    <updated>2026-11-26T00:00:00Z</updated>
+    <category term="electromechanical" label="Electromechanical &amp; mechatronics" />
+    <category term="ml" label="Machine learning" />
+    <summary>Czech Republic, CZ · Deadline: 2026-12-16 · Topics: Electromechanical &amp; mechatronics, Machine learning
+
+PhD Position: Machine Learning and Bayesian Inference for Fracture Network Models Technical University of Liberec, Czech Republic Faculty of Mechatronics, Informatics and Interdisciplinary Studies · Multiphysics Software Group Supervisor: Jan Březina, Ph.D. Research Can we turn accumulated...</summary>
+  </entry>
   <entry>
     <title>PhD Studentship: Machine Learning and Uncertainty Quantification for Complex Scientific Systems · University of Birmingham (GB)</title>
     <link href="https://www.jobs.ac.uk/job/DTS643/phd-studentship-machine-learning-and-uncertainty-quantification-for-complex-scientific-systems" rel="alternate" />

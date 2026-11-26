@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>PhD offers: Cybersecurity</title>
   <id>urn:uuid:803fbc15-b75f-5c09-a22f-fae08834b530</id>
-  <updated>2026-11-18T00:00:00Z</updated>
+  <updated>2026-11-26T00:00:00Z</updated>
   <author>
     <name>PhD finder</name>
   </author>
+  <entry>
+    <title>PhD Position F/M Synthetic Network Traffic Generation for Intrusion Detection Evaluation · Inria (PIRAT) (FR)</title>
+    <link href="https://jobs.inria.fr/public/classic/en/offres/2026-10752" rel="alternate" />
+    <id>urn:uuid:e7f1e35a-f6fb-5961-89c0-3b85a5462a9e</id>
+    <updated>2026-11-26T00:00:00Z</updated>
+    <category term="cybersecurity" label="Cybersecurity" />
+    <summary>Inria (PIRAT) · Rennes, FR · Deadline: 2027-01-26 · Topics: Cybersecurity</summary>
+  </entry>
   <entry>
     <title>Marie Skłodowska-Curie Doctoral Network Researcher ENG04111 · Imperial College London (GB)</title>
     <link href="https://euraxess.ec.europa.eu/jobs/481323" rel="alternate" />
